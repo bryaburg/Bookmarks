@@ -197,7 +197,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 <br>
 
-## Automotive
+## Parts
+
 -[1aauto](https://www.1aauto.com/) - 1aauto Parts
 
 ## Tools
