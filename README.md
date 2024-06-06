@@ -1,11 +1,5 @@
 # My Bookmarks
 
-Most of these websites are gathered from:
-
-- [producthunt.com](https://www.producthunt.com/)
-- [reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
-- [news.ycombinator.com](https://news.ycombinator.com/)
-
 Certain websites are tagged with the symbols listed below for convenience.
 
 | Symbol | Meaning                                                                       |
