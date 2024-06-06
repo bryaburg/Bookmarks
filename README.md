@@ -490,6 +490,59 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ### Repair
 
+## Business
+
+- [Crunchbase](https://www.crunchbase.com/) - A platform for discovering innovative companies, startups, and key individuals in the business world. Provides comprehensive data and insights about companies, investments, and industry trends.
+- [Business Model Toolbox](https://bmtoolbox.net/) - A resource to learn about various business concepts and models.
+- [Gumroad](https://gumroad.com/) - E-commerce platform for creators to sell digital products directly to customers.
+- [Humble Bundle](https://www.humblebundle.com/) - Platform selling games, ebooks, software, and digital content with a mission to support charity while providing great content at affordable prices.
+- [Google Takeout](https://takeout.google.com/) - Export a copy of all your Google data.
+- [Honey](https://www.joinhoney.com/) - A browser extension that automatically searches for coupons on over 30,000 sites globally.
+- [BotHelp](https://bothelp.io/widget) - Provides a free chat button widget for websites.
+- [CertificateClaim](https://www.certificateclaim.com/) (~$) - A digital service for creating and sending various types of certificates.
+- [Respresso](https://respresso.io/) ($) - A tool to manage your app’s localization texts, images, colors, fonts, and more, delivering them automatically into your projects with a single click.
+- [Bonanza](https://www.bonanza.com/) - An online marketplace that empowers entrepreneurs to build a sustainable business based on repeat customers.
+- [Pipl](https://pipl.com/) - Identify, search, and verify employees using email addresses, social usernames, or phone numbers by searching through Pipl's global index of identity information, reducing customer friction, fighting fraud, and saving time on review and research.
+
+### Finance
+
+- [FIGR](https://www.figr.app/) - Google Docs + Calculator = Personal finances
+- [LiveFortunately](https://app.livefortunately.com/) - Plan for a better financial future. Create a complete financial plan to make the most of your money.
+- [KeeperTax](https://www.keepertax.com/ask-an-ai-accountant-2-0) - AI Accountant for getting help and calculating tax-related questions.
+
+### Patents
+
+- [Espacenet](https://worldwide.espacenet.com/) - Free access to over 130 million patent documents.
+- [Google Patents](https://patents.google.com/) - Search and read the full text of patents from around the world.
+- [WIPO Patentscope](https://patentscope.wipo.int/search/en/search.jsf) - Search 105 million patent documents, including 4.3 million published international patent applications (PCT).
+- [Patently Apple](https://www.patentlyapple.com/patents-applications/) - Explore patent applications made by Apple.
+- [USPTO Report](https://uspto.report/) - Platform providing information and reports related to patents from the United States Patent and Trademark Office.
+
+### Marketing
+
+- [Telega](https://telega.io/) - Find the target audience in Telegram and launch effective advertising campaigns.
+- [IGMassDMS](https://igmassdms.com/) ($) - Send direct Instagram messages to your targeted audience without using your account.
+- [Product Management Tools](https://rohitverma.gumroad.com/l/PM-tools) ($) - Collection of Product Management tools for $5.
+- [Yes Promo](https://yespromo.me/) - Free database of 100+ successful self-promotion Reddit posts.
+- [Marketing for Startups E-Book](https://www.welovenocode.com/marketingforstartups) - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth.
+- [ArrayList](https://arraylist.org/) - List database in the cloud for storing form submissions, email-subscription forms, or making AJAX/REST calls to store values.
+- [SuperMeme AI](https://www.supermeme.ai/) ($) - Generate original memes powered by AI in 110+ languages.
+- [Apollo](https://www.apollo.io/) - Sales intelligence and engagement platform to search, engage, and convert over 250 million contacts at over 60 million companies.
+- [Vocus.io](https://vocus.io/) - Personalize email campaigns, track and automate email follow-ups, schedule appointments, sync with your CRM, and collaborate with your team.
+
+### Trends
+
+- [Google Trends](https://trends.google.com/trends/?geo=US) - Explore trending topics and insights based on Google searches.
+- [Google Trends - Visualize](https://trends.google.com/trends/hottrends/visualize) - Visualize and explore the hottest trends on Google.
+- [Statista](https://www.statista.com/) - A platform for statistical data and visualizations, providing insights into various industries and topics.
+- [Google Books Ngram Viewer](https://books.google.com/ngrams) - Graphically visualize the occurrence of phrases in a corpus of books over selected years.
+
+### Meetings
+
+- [When2meet](https://www.when2meet.com/) - A free service for scheduling group meetings. It allows users to create and participate in availability surveys to find the best time for a group to meet.
+- [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
+- [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
+
 ## Tools
 
 - [5000Best Tools](https://5000best.com/tools/) - 5000 tools.
@@ -907,59 +960,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [EquityZen](https://equityzen.com/) - Allows you to invest or sell shares in the secondary market with EquityZen funds.
 - [WTF Happened in 1971](https://wtfhappenedin1971.com/) - Website exploring and highlighting various economic, social, and financial events that occurred in the year 1971.
 - [Ergodicity Economics](https://ergodicityeconomics.com/) - Website providing insights into Ergodicity Economics and related concepts.
-
-## Business
-
-- [Crunchbase](https://www.crunchbase.com/) - A platform for discovering innovative companies, startups, and key individuals in the business world. Provides comprehensive data and insights about companies, investments, and industry trends.
-- [Business Model Toolbox](https://bmtoolbox.net/) - A resource to learn about various business concepts and models.
-- [Gumroad](https://gumroad.com/) - E-commerce platform for creators to sell digital products directly to customers.
-- [Humble Bundle](https://www.humblebundle.com/) - Platform selling games, ebooks, software, and digital content with a mission to support charity while providing great content at affordable prices.
-- [Google Takeout](https://takeout.google.com/) - Export a copy of all your Google data.
-- [Honey](https://www.joinhoney.com/) - A browser extension that automatically searches for coupons on over 30,000 sites globally.
-- [BotHelp](https://bothelp.io/widget) - Provides a free chat button widget for websites.
-- [CertificateClaim](https://www.certificateclaim.com/) (~$) - A digital service for creating and sending various types of certificates.
-- [Respresso](https://respresso.io/) ($) - A tool to manage your app’s localization texts, images, colors, fonts, and more, delivering them automatically into your projects with a single click.
-- [Bonanza](https://www.bonanza.com/) - An online marketplace that empowers entrepreneurs to build a sustainable business based on repeat customers.
-- [Pipl](https://pipl.com/) - Identify, search, and verify employees using email addresses, social usernames, or phone numbers by searching through Pipl's global index of identity information, reducing customer friction, fighting fraud, and saving time on review and research.
-
-### Finance
-
-- [FIGR](https://www.figr.app/) - Google Docs + Calculator = Personal finances
-- [LiveFortunately](https://app.livefortunately.com/) - Plan for a better financial future. Create a complete financial plan to make the most of your money.
-- [KeeperTax](https://www.keepertax.com/ask-an-ai-accountant-2-0) - AI Accountant for getting help and calculating tax-related questions.
-
-### Patents
-
-- [Espacenet](https://worldwide.espacenet.com/) - Free access to over 130 million patent documents.
-- [Google Patents](https://patents.google.com/) - Search and read the full text of patents from around the world.
-- [WIPO Patentscope](https://patentscope.wipo.int/search/en/search.jsf) - Search 105 million patent documents, including 4.3 million published international patent applications (PCT).
-- [Patently Apple](https://www.patentlyapple.com/patents-applications/) - Explore patent applications made by Apple.
-- [USPTO Report](https://uspto.report/) - Platform providing information and reports related to patents from the United States Patent and Trademark Office.
-
-### Marketing
-
-- [Telega](https://telega.io/) - Find the target audience in Telegram and launch effective advertising campaigns.
-- [IGMassDMS](https://igmassdms.com/) ($) - Send direct Instagram messages to your targeted audience without using your account.
-- [Product Management Tools](https://rohitverma.gumroad.com/l/PM-tools) ($) - Collection of Product Management tools for $5.
-- [Yes Promo](https://yespromo.me/) - Free database of 100+ successful self-promotion Reddit posts.
-- [Marketing for Startups E-Book](https://www.welovenocode.com/marketingforstartups) - Free e-book with 47 practical tactics to get customers and achieve hockey stick growth.
-- [ArrayList](https://arraylist.org/) - List database in the cloud for storing form submissions, email-subscription forms, or making AJAX/REST calls to store values.
-- [SuperMeme AI](https://www.supermeme.ai/) ($) - Generate original memes powered by AI in 110+ languages.
-- [Apollo](https://www.apollo.io/) - Sales intelligence and engagement platform to search, engage, and convert over 250 million contacts at over 60 million companies.
-- [Vocus.io](https://vocus.io/) - Personalize email campaigns, track and automate email follow-ups, schedule appointments, sync with your CRM, and collaborate with your team.
-
-### Trends
-
-- [Google Trends](https://trends.google.com/trends/?geo=US) - Explore trending topics and insights based on Google searches.
-- [Google Trends - Visualize](https://trends.google.com/trends/hottrends/visualize) - Visualize and explore the hottest trends on Google.
-- [Statista](https://www.statista.com/) - A platform for statistical data and visualizations, providing insights into various industries and topics.
-- [Google Books Ngram Viewer](https://books.google.com/ngrams) - Graphically visualize the occurrence of phrases in a corpus of books over selected years.
-
-### Meetings
-
-- [When2meet](https://www.when2meet.com/) - A free service for scheduling group meetings. It allows users to create and participate in availability surveys to find the best time for a group to meet.
-- [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
-- [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
 
 ## Jobs
 
