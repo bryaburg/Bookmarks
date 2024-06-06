@@ -20,9 +20,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 # Contents
 
-- [Awesome Useful Websites](#awesome-useful-websites)
-  - [Lexicon](#lexicon)
 - [Contents](#contents)
+
   - [Tools](#tools)
     - [White Board](#white-board)
     - [Mind Map / Note Taking](#mind-map--note-taking)
@@ -34,20 +33,25 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Converter / Conversion](#converter--conversion)
       - [Unit Conversion](#unit-conversion)
     - [Visual](#visual)
+
   - [DIY](#diy)
   - [Culture](#culture)
+
   - [Language](#language)
     - [Grammar](#grammar)
     - [Writing](#writing)
     - [Words \& Meanings](#words--meanings)
     - [Business English](#business-english)
+
   - [Travel](#travel)
     - [Globetrotting](#globetrotting)
     - [Time](#time)
     - [Flight](#flight)
     - [Weather](#weather)
+
   - [Health](#health)
     - [Food](#food)
+
   - [Music / Audio](#music--audio)
     - [Find Music](#find-music)
     - [Free Music](#free-music)
@@ -55,23 +59,29 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Music Theory](#music-theory)
       - [Rhyme](#rhyme)
     - [Spotify](#spotify)
+
   - [Movies and Series](#movies-and-series)
     - [Anime](#anime)
+
   - [Media](#media)
     - [X / Twitter](#x--twitter)
     - [Reddit](#reddit)
+
   - [Economy](#economy)
+
   - [Business](#business)
     - [Finance](#finance)
     - [Patents](#patents)
     - [Marketing](#marketing)
     - [Trends](#trends)
     - [Meetings](#meetings)
+
   - [Jobs](#jobs)
     - [Remote Jobs](#remote-jobs)
     - [Freelancing](#freelancing)
     - [Portfolio / CV / Resume](#portfolio--cv--resume)
     - [Careers](#careers)
+
   - [Startups](#startups)
     - [Failures](#failures)
     - [Finding Ideas](#finding-ideas)
@@ -83,13 +93,16 @@ Some websites can fall into multiple categories. If you can't find what you need
       - [Tools for Social Media](#tools-for-social-media)
       - [Stock Images](#stock-images)
       - [Wallpapers](#wallpapers)
+
   - [Art](#art)
     - [Photography](#photography)
     - [Art Communities](#art-communities)
+
   - [Academia](#academia)
     - [Studying](#studying)
     - [Calculators](#calculators)
     - [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
+
   - [Science](#science)
     - [Biographies](#biographies)
     - [Books, Articles, Texts](#books-articles-texts)
@@ -101,11 +114,14 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [History](#history)
     - [Geoscience](#geoscience)
     - [Biology](#biology)
+
   - [Physics](#physics)
     - [Quantum](#quantum)
     - [Astronomy](#astronomy)
+
   - [Mathematics](#mathematics)
     - [Math + Art](#math--art)
+
   - [Engineering](#engineering)
     - [Civil Engineering](#civil-engineering)
     - [Mechanical Engineering](#mechanical-engineering)
@@ -114,15 +130,18 @@ Some websites can fall into multiple categories. If you can't find what you need
       - [Control](#control)
       - [Vibrations](#vibrations)
     - [Electronics Engineering](#electronics-engineering)
+
   - [Computer Science](#computer-science)
     - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
     - [Big-O notation](#big-o-notation)
+
   - [AI/ML](#aiml)
     - [LLMs](#llms)
     - [Prompt Engineering](#prompt-engineering)
     - [AI tools](#ai-tools)
     - [Data Science](#data-science)
     - [Databases](#databases)
+
   - [Web Development](#web-development)
     - [Front-end](#front-end)
       - [HTML](#html)
@@ -133,6 +152,7 @@ Some websites can fall into multiple categories. If you can't find what you need
       - [SQL](#sql)
     - [Web Analytics](#web-analytics)
     - [Web 3.0 Dev and Cryptocurrencies](#web-30-dev-and-cryptocurrencies)
+
   - [Software Engineering](#software-engineering)
     - [Android Development](#android-development)
     - [Game Development](#game-development)
@@ -141,6 +161,7 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Linux](#linux)
     - [Git](#git)
       - [GitHub](#github)
+
   - [Privacy](#privacy)
     - [Cryptography](#cryptography)
     - [GAFA Alternatives](#gafa-alternatives)
@@ -155,6 +176,7 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [VPN](#vpn)
     - [Fake Information Generation](#fake-information-generation)
     - [Password Generation](#password-generation)
+
   - [Softwares](#softwares)
     - [Snippets](#snippets)
     - [Linters](#linters)
@@ -162,27 +184,30 @@ Some websites can fall into multiple categories. If you can't find what you need
     - [Regex](#regex)
     - [No-Code](#no-code)
       - [Licensing](#licensing)
+      
   - [Programming Languages](#programming-languages)
     - [Python](#python)
     - [C++](#c)
+
   - [Coding Practice / Competitive Programming](#coding-practice--competitive-programming)
     - [Capture the Flag](#capture-the-flag)
     - [Projects](#projects)
     - [Open Source](#open-source)
     - [Hackathons](#hackathons)
+
   - [Cheat Sheets](#cheat-sheets)
     - [Python Cheat Sheet](#python-cheat-sheet)
     - [Front-end Cheat Sheet](#front-end-cheat-sheet)
       - [HTML Cheat Sheet](#html-cheat-sheet)
       - [CSS Cheat Sheet](#css-cheat-sheet)
+
   - [Keyboard](#keyboard)
     - [Keyboard Shortcuts](#keyboard-shortcuts)
+
   - [How To Ask A Good Question](#how-to-ask-a-good-question)
     - [XY Problem](#xy-problem)
+
   - [Other Websites of Websites](#other-websites-of-websites)
-- [Contributing](#contributing)
-- [DISCLAIMER](#disclaimer)
-- [LICENSE](#license)
 
 <br>
 
@@ -1953,25 +1978,3 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Wiby](https://wiby.me/) - Search engine for the classic web, aiming to recreate the browsing experience of earlier days of the internet, particularly suitable for vintage computers.
 
 <br>
-
-# Contributing
-
-- If you find out any broken link or any website that has been outdated, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
-
-- If you want to add a new category or website, create a [pull request](https://github.com/atakanaltok/awesome-useful-websites/pulls) (To avoiding duplications, seach whether your website is already included).
-
-- If you are a site owner and believe that your site is not described accurately, please [rise an issue](https://github.com/atakanaltok/awesome-useful-websites/issues).
-
-<br>
-
-# DISCLAIMER
-
-By accessing and using the Awesome Useful Websites project ("the Project") on GitHub, you agree that the Project is not affiliated with, sponsored by, or endorsed by any of the websites listed. While efforts are made to maintain accurate and up-to-date information, the Project makes no guarantees regarding the accuracy, completeness, or reliability of the content. Changes of the content of linked websites are beyond the Project's control. The Project is provided "as is" without any warranties, express or implied.
-
-<br>
-
-# LICENSE
-
-![Creative Commons License](https://i.creativecommons.org/l/by/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
