@@ -197,6 +197,27 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 <br>
 
+## Art
+
+- [WeavesSilk](https://weavesilk.com/) - Create beautiful flowing art with Silk.
+- [Google Arts & Culture](https://artsandculture.google.com/) - A platform bringing the world’s art and culture online for everyone.
+- [ArtGraphica](https://www.artgraphica.net/) - A resource for free drawing, sketching, and painting techniques.
+- [Tattoos Wizard](https://tattooswizard.com/) - Find tattoo artists and studios near you.
+- [The Art Institute of Chicago Collection](https://www.artic.edu/collection) - Explore thousands of artworks in the museum’s collection.
+- [ZoomQuilt](https://zoomquilt.org/) - Collaborative infinitely zooming painting.
+- [Invaluable](https://www.invaluable.com/) - The world's premier online auctions platform, featuring thousands of items added daily. Invaluable provides accessibility to discovering and acquiring exceptional art and objects anytime, anywhere.
+
+### Photography
+
+- [Cambridge in Colour](https://www.cambridgeincolour.com/) - Learning community for photographers
+- [Exposure Guide](https://www.exposureguide.com/) - Photography Tips, Techniques, and Tutorials
+
+### Art Communities
+
+- [Ello](https://ello.co/discover)
+- [Behance](https://www.behance.net/)
+- [ArtStation](https://www.artstation.com/)
+
 ## Automotive
 
 ### Parts
@@ -881,27 +902,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [SimpleDesktops](https://simpledesktops.com/browse/) - Collection of minimal wallpapers for desktop backgrounds.
 - [WallpaperFlare](https://www.wallpaperflare.com/search?wallpaper=vertical) - Website offering high-resolution vertical wallpapers.
 - [Positron Dream](https://www.positrondream.com/wallpapers-all) - Collection of abstract wallpapers available for download.
-
-## Art
-
-- [WeavesSilk](https://weavesilk.com/) - Create beautiful flowing art with Silk.
-- [Google Arts & Culture](https://artsandculture.google.com/) - A platform bringing the world’s art and culture online for everyone.
-- [ArtGraphica](https://www.artgraphica.net/) - A resource for free drawing, sketching, and painting techniques.
-- [Tattoos Wizard](https://tattooswizard.com/) - Find tattoo artists and studios near you.
-- [The Art Institute of Chicago Collection](https://www.artic.edu/collection) - Explore thousands of artworks in the museum’s collection.
-- [ZoomQuilt](https://zoomquilt.org/) - Collaborative infinitely zooming painting.
-- [Invaluable](https://www.invaluable.com/) - The world's premier online auctions platform, featuring thousands of items added daily. Invaluable provides accessibility to discovering and acquiring exceptional art and objects anytime, anywhere.
-
-### Photography
-
-- [Cambridge in Colour](https://www.cambridgeincolour.com/) - Learning community for photographers
-- [Exposure Guide](https://www.exposureguide.com/) - Photography Tips, Techniques, and Tutorials
-
-### Art Communities
-
-- [Ello](https://ello.co/discover)
-- [Behance](https://www.behance.net/)
-- [ArtStation](https://www.artstation.com/)
 
 ## Academia
 
