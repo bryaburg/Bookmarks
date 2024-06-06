@@ -22,7 +22,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [Contents](#contents)
 
-### Art
+### [Art](#Art)
 - [Photography](#photography)
 - [Art Communities](#art-communities)
 
