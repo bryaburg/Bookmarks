@@ -218,10 +218,386 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Behance](https://www.behance.net/)
 - [ArtStation](https://www.artstation.com/)
 
+## Academia
+
+- [TLDR This](https://tldrthis.com/) - Platform to summarize any piece of text into concise, easy-to-digest content, helping users overcome information overload.
+- [Archive.org General Index](https://archive.org/details/GeneralIndex) - General index providing access to over 107 million journal articles.
+- [Homework Help Global](https://www.homeworkhelpglobal.com/) - Online platform offering professional and custom essay writing services.
+- [Dartmouth Academic Careers](https://sites.dartmouth.edu/nyhan/academic-careers/) - Resource providing insights into academic careers.
+- [CNX](https://cnx.org/) - Platform to view and share free educational materials.
+- [Reach Out Michigan Tutorials](https://www.reachoutmichigan.org/learn/tutorials.html#math) - Collection of online tutorials and references covering various topics.
+- [Open Text BC](https://opentextbc.ca/) - Simple book production software allowing users to publish textbooks, scholarly monographs, syllabi, fiction and non-fiction books, white papers, and more in multiple formats.
+- [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) - Chrome extension enhancing the Wikipedia experience with a modern and customizable design.
+- [Wikiwand - Wikipedia Modern](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj) - Chrome extension optimizing Wikipedia's content for an improved reading experience.
+- [List of Academic Databases and Search Engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines) - Wikipedia page listing academic databases and search engines.
+- [Scribbr APA Citation Generator](https://www.scribbr.com/citation/generator/apa/) - Platform providing accurate APA citations, verified by experts and trusted by millions.
+- [Bridges: About Institutions, Histories, and Artifacts](https://temple.manifoldapp.org/projects/bridges) - Resource about institutions, histories, and artifacts of United States college and university life.
+- [Tropy](https://tropy.org/) - Platform to organize research by turning photos into items.
+- [Linda Hall Library Catalog](https://catalog.lindahall.org/discovery/search?vid=01LINDAHALL_INST:LHL) - Catalog of the Linda Hall Library that allows you to search for books, journals, conference proceedings, technical reports and standards, and other materials, focusing on science, engineering, and technology.
+- [Project Abstracts](https://projectabstracts.com/) - Collection of project abstracts and downloads for academic mini projects and final year projects across various fields.
+
+### Studying
+
+- [Bartleby](https://www.bartleby.com/) - A platform to search for textbooks, step-by-step explanations to homework questions, and more.
+- [Chegg](https://www.chegg.com/) ($) - A service offering 24/7 course help, including textbook solutions and expert Q&A.
+- [Chegg Flashcards](https://www.chegg.com/flashcards) (@) - Study with flashcards created by students and experts for various courses.
+
+### Calculators
+
+- [Calc Resource](https://calcresource.com/index.html) - Platform offering a variety of calculators and resources for mathematical calculations.
+- [eFunda](https://www.efunda.com/home.cfm) - Website providing calculators, formulas, and information on materials and processes.
+- [LCM Calculator](https://www.calculator.net/lcm-calculator.html) - Calculator for finding the Least Common Multiple.
+- [GCF Calculator](https://www.calculator.net/gcf-calculator.html?numberinputs=9%2C+57%2C+72&x=75&y=22) - Calculator for finding the Greatest Common Factor.
+- [CalculatorSoup](https://www.calculatorsoup.com/) - Online platform offering a variety of calculators for different mathematical purposes.
+- [RapidTables](https://www.rapidtables.com/) - Website providing a collection of calculators and tables for quick reference.
+- [Linear Algebra Calculator](https://www.emathhelp.net/en/linear-algebra-calculator/?u=3%2C1%2C4&v=-2%2C0%2C5&action=cross+product) - Calculator for linear algebra calculations, such as cross product.
+- [Wikipedia: List of Physical Quantities](https://en.wikipedia.org/wiki/List_of_physical_quantities) - Wikipedia page listing various physical quantities.
+- [eMathHelp Linear Algebra Calculator](https://www.emathhelp.net/en/calculators/linear-algebra/) - Online calculator for linear algebra calculations.
+- [Online Math School](https://onlinemschool.com/math/assistance/) - Platform providing math assistance with various calculators and resources.
+
+### MOOC (Massive Open Online Courses)
+
+- [InfoCobuild - Audio Video Courses](http://www.infocobuild.com/education/audio-video-courses/) - Collection of free audio/video lectures for academic courses from colleges and universities around the world. It is well-categorized with academic subjects including biology, chemistry, computer science, economics, electronics and electrical engineering, history, literature, materials science, mathematics, physics, and psychology.
+- [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT's initiative offering free and open access to a wide range of course materials.
+- [Coursera](https://www.coursera.org/) - Online learning platform providing courses, certificates, and degree programs from universities and organizations worldwide.
+- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) - Wikimedia Foundation project providing free educational content and resources.
+- [Udemy](https://www.udemy.com/) - Platform offering a vast array of online courses on various subjects, taught by experts.
+- [Open Culture](https://www.openculture.com/) - Website providing free cultural and educational media, including courses, textbooks, and audiobooks.
+- [edX](https://www.edx.org/) - Online learning platform offering courses, certificates, and degrees from universities and institutions around the world.
+- [Udacity](https://www.udacity.com/) - Platform specializing in tech-related courses and nanodegree programs designed in collaboration with industry leaders.
+- [Stanford Online](https://online.stanford.edu/) - Stanford University's platform for online learning, offering a variety of courses and programs.
+- [OpenLearn](https://www.open.edu/openlearn/) - The Open University's initiative providing free access to course materials and educational resources.
+- [Open Learning Initiative (OLI)](https://oli.cmu.edu/) - Carnegie Mellon University's platform offering openly available courses and resources.
+- [MITx](https://www.mitx.org/) - MIT's platform providing online courses and programs with a focus on cutting-edge research.
+- [Open Yale Courses](https://oyc.yale.edu/) - Yale University's initiative providing free access to introductory courses taught by distinguished faculty.
+- [Alison](https://alison.com/) - Platform offering free online courses and diplomas across a range of subjects.
+- [Academic Earth](https://academicearth.org/) - Website aggregating online courses from top universities worldwide.
+- [NPTEL](https://nptel.ac.in/) - National Programme on Technology Enhanced Learning, providing online courses in engineering and science.
+- [University of the People](https://www.uopeople.edu/) - Online university offering tuition-free, accredited degree programs.
+- [Canvas Network](https://www.canvas.net/) - Platform offering online courses and programs from various institutions using the Canvas learning management system.
+- [Isaac Newton Institute for Mathematical Sciences](https://www.newton.ac.uk/) - Institute's website providing access to mathematical science resources and programs.
+- [Saylor Academy](https://www.saylor.org/) - Nonprofit initiative offering free, self-paced online courses.
+- [Connexions](https://cnx.org/) - Platform providing open educational resources and textbooks in various subject areas.
+- [Directory of Open Access Journals (DOAJ)](https://doaj.org/) - Online directory providing access to high-quality, open-access scientific and scholarly journals.
+- [Learning on the Internet](https://www.learningontheinternet.com/?ref=producthunt) - Platform featuring curated educational content and resources from various sources.
+- [Class Central](https://www.classcentral.com/) - Search engine and reviews platform for online courses, aggregating courses from various providers.
+- [OCW SNU](https://ocw.snu.ac.kr/) - Open CourseWare from Seoul National University.
+
+## Science
+
+- [Reproducibility Institute](https://reproducibilityinstitute.org/w/) - Projects that provide academic papers, cheatsheets, and torrents for paid courses.
+- [EBSCO](https://www.ebsco.com/) - Provider of research databases, e-journals, magazine subscriptions, ebooks, and discovery service.
+- [Zooniverse](https://www.zooniverse.org/) - Participate in real research with over 50 active online citizen science projects.
+- [Experiment](https://experiment.com/) - Help fund the next wave of scientific research.
+- [Closer to Truth](https://www.closertotruth.com/) - Robert Lawrence Kuhn explores the fundamental questions of the universe.
+- [Nature Scitable](https://www.nature.com/scitable/) - Library of scientific overviews. Customize your own eBooks, create an online classroom, contribute and share content, and connect with networks of colleagues.
+- [Vinaire](https://vinaire.me/) - Physics and Math classes.
+
+### Biographies
+
+- [Mathematics History](https://mathshistory.st-andrews.ac.uk/) - Free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials.
+- [Web of Stories](https://www.webofstories.com/) - Listen to life stories of some of the greatest people of our time.
+- [Letters of Note](https://lettersofnote.com/) - History’s most fascinating letters.
+- [Organism Earth Library](https://www.organism.earth/library/).
+- [Darwin Project](https://www.darwinproject.ac.uk/) - Letters written by the evolutionary scientist, Charles Darwin (1809–1882).
+- [Darwin Online](https://darwin-online.org.uk/) - The world's largest and most widely used resource on Charles Darwin.
+- [Newton Project](https://www.newtonproject.ox.ac.uk/) - Online edition of all of Sir Isaac Newton’s (1642–1727) writings.
+- [Bethe](https://bethe.cornell.edu/index.html) - Personal and historical perspectives of Hans Bethe.
+- [Open Source Shakespeare](https://www.opensourceshakespeare.org/) - Open source Shakespeare.
+- [Leonardo da Vinci](https://www.leonardodavinci.net/) - Leonardo da Vinci, his life, and artworks.
+- [Our Karl Popper](https://ourkarlpopper.net/) - How Karl Popper has made a difference in our lives (Testimonies from the five continents).
+- [Varlam Shalamov](https://shalamov.ru/en/) - Writings and historical background of Varlam Shalamov, a Russian writer known for his series of short stories about imprisonment in Soviet labor camps.
+- [Samuel Beckett On-Line Resources](https://www.samuel-beckett.net/) - The Samuel Beckett On-Line Resources and Links Pages. (Samuel Beckett's [Waiting for Godot](https://www.samuel-beckett.net/Waiting_for_Godot_Part1.html))
+- [Philip K. Dick](https://philipdick.com/) - Devoted to the life and work of Science Fiction writer Philip K. Dick (1928-82).
+- [Alan Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/) - This digital archive contains many of Turing's letters, transcriptions of talks, photographs, and unpublished papers.
+- [Turing.org.uk](https://www.turing.org.uk/) - Platform dedicated to the life and work of Alan Turing, the mathematician and computer scientist.
+- [Sherlock Holmes Series](https://sherlock-holm.es/) - Sir Arthur Conan Doyle's Sherlock Holmes series (Public Domain, Copyright-free).
+- [Feynman Lectures Online](https://www.feynmanlectures.caltech.edu/) - Richard Feynman's lectures online.
+- [Leibniz Translations](https://www.leibniz-translations.com/index2.php) - Resource offering translations of the works of philosopher and mathematician Gottfried Wilhelm Leibniz.
+- [David Hume](https://davidhume.org/) - Platform dedicated to the Scottish philosopher David Hume. Accurate, helpful presentation of virtually everything Hume ever wrote.
+- [Fooled by Randomness](https://fooledbyrandomness.com/) - Nassim Nicholas Taleb's Home Page.
+- [Prabook](https://prabook.com/web/home.html) - Platform providing biographical information on notable individuals.
+- [Famous Mathematicians](https://famous-mathematicians.org/) - Website featuring information and biographies of famous mathematicians.
+
+### Books, Articles, Texts
+
+- [Archive.org/texts](https://archive.org/details/texts) - A digital library offering free universal access to a vast collection of digital content.
+- [Open Library](https://openlibrary.org/) - A universal catalog for book metadata with access to a wide range of digital books.
+- [OpenStax](https://openstax.org/) - Provides free and flexible textbooks and resources for educational purposes.
+- [Project Gutenberg](https://www.gutenberg.org/) - A digital library offering over 60,000 free eBooks, including many classics.
+- [Wikibooks](https://en.wikibooks.org/wiki/Main_Page) - An open-content collection of textbooks that anyone can edit.
+- [Wikisource](https://wikisource.org/wiki/Main_Page) - A free library that allows collaborative improvement of its content.
+- [MIT Classics](https://classics.mit.edu/) - Select from a list of 441 works of classical literature by 59 different authors.
+- [Goodreads Free eBooks](https://www.goodreads.com/ebooks?sort=readable) - Free books available on Goodreads.
+- [Lit2Go](https://etc.usf.edu/lit2go/) - A free online collection of stories and poems in audiobook format (Mp3).
+- [Booksc](https://booksc.org/) - World's largest scientific articles store with 70,000,000+ free articles.
+- [IntechOpen](https://www.intechopen.com/books) - Read, share, and download more than 5,800 peer-reviewed Open Access books.
+- [FreeTechBooks](https://www.freetechbooks.com/) - A database of free/open access online computer science books, textbooks, and lecture notes.
+- [FreeComputerBooks](https://freecomputerbooks.com/) - Platform offering a collection of free computer science and programming books.
+- [Manning](https://www.manning.com/) - A publisher of programming books.
+- [Holy Books](https://holybooks.com/) - Download spiritual texts as free PDF e-books.
+- [Librivox](https://librivox.org/) - Provides free public domain audiobooks read by volunteers from around the world.
+- [Online Books Page](https://onlinebooks.library.upenn.edu/) - A listing of over 3 million free books on the web.
+- [Audible](https://www.audible.com/) (~$) - A platform offering premium audio storytelling with a wide selection of audiobooks.
+- [VCU Transcendentalism](https://archive.vcu.edu/english/engweb/transcendentalism/) - An educational hypertext space on transcendental texts with links to other internet spaces.
+- [Library of Short Stories](https://www.libraryofshortstories.com/) - An online library with over 1000 classic short stories available for reading and download.
+- [SlideShare](https://www.slideshare.net/) - Online platform for sharing presentations and documents.
+- [Free-eBooks.net](https://www.free-ebooks.net/) - Discover 1000's of New Authors in Hundreds of Categories Fiction and Non-Fiction.
+- [University of Pennsylvania Digital Library](https://digital.library.upenn.edu/books/) - Digital library providing access to a collection of books.
+- [Feedbooks Public Domain](https://www.feedbooks.com/catalog/public_domain) - Platform offering a catalog of public domain books for free.
+- [Authorama](https://www.authorama.com/) - Platform providing a collection of public domain books by different authors.
+- [Google Play - Top Selling Free Books](https://play.google.com/store/books/collection/topselling_free?clp=ChcKFQoPdG9wc2VsbGluZ19mcmVlEAcYAQ%3D%3D:S:ANO1ljKuey8&gsr=ChkKFwoVCg90b3BzZWxsaW5nX2ZyZWUQBxgB:S:ANO1ljIbX7M) - Collection of top-selling free books on Google Play.
+- [Taoism.net](https://taoism.net/) - Resource for exploring Taoism.
+- [Early Modern Texts](https://earlymoderntexts.com/) - Platform providing modern English translations of early modern philosophical texts.
+- [Online Library of Liberty](https://oll.libertyfund.org/) - Curated collection of scholarly works that engage with vital questions of liberty.
+- [Online Books Library](https://onlinebooks.library.upenn.edu/) - University of Pennsylvania's online library providing access to 3 million free books on the Web.
+- [Elegant eBooks](https://www.ibiblio.org/ebooks/) - Find great classics of fiction and non-fiction in stylish editions. Almost all of the ebooks on this site were made from books that are in the public domain.
+- [22 Free Data Science Books](https://www.wzchen.com/data-science-books) - A compilation of quality data science books available for free, curated to assist those exploring the data science career track. The last updated date of each book is included in parentheses.
+
+#### Book Recommendations and Summaries
+
+- [Read Next](https://read-next.com/) - A collection of 3,000+ books recommended by famous people from various domains such as scientists, investors, entrepreneurs, celebrities, and authors.
+- [Goodbooks](https://www.goodbooks.io/) - Offers 8,500+ book recommendations from successful and interesting individuals around the world.
+- [Most Recommended Books](https://mostrecommendedbooks.com/) - Curates 500+ experts, 600+ lists, 500+ book series, providing 100% verified book recommendations.
+- [Books Chatter](https://bookschatter.com/) - Find book recommendations from people's tweets, with tweets shown.
+- [Leafmarks](https://www.leafmarks.com/) - Explore book recommendations from famous authors, top CEOs, legendary investors, and favorite celebrities.
+- [Bookstash](https://bookstash.io/) - Features top books recommended by famous individuals, summarized in 3 minutes or less.
+- [Abakcus](https://abakcus.com/books/) - A collection of books about mathematics and some science.
+- [BookBub](https://www.bookbub.com/welcome) - Get personalized book recommendations based on your preferences.
+- [Hacker News Books](https://hackernewsbooks.com/) - Curates the best books mentioned on Hacker News each week.
+- [Goodreads](https://www.goodreads.com/) - The world's largest site for readers and book recommendations.
+- [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Enter a book you like and the site will analyse our huge database of real readers' favorite books to provide book recommendations and suggestions for what to read next.
+- [Blas](https://blas.com/) - Summarizes more than 400 books by Blas Moros.
+- [Google Books - Talk to Books](https://books.google.com/talktobooks/) - Platform allowing users to have a conversation with books using natural language.
+
+### Maps and Data
+
+- [Our World in Data](https://ourworldindata.org/covid-vaccinations) - COVID-19 vaccination data by country.
+- [WebSDR](https://websdr.org/) - A Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously, capturing current signals from Earth.
+- [GSM Security Map](https://gsmmap.org/) - A map comparing the protection capabilities of mobile networks regarding GSM security.
+- [International Campuses](https://cbert.org/resources-data/intl-campus/) - A list of international campuses.
+- [United States International College Campuses on Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ckm_TSM8mbCrnhA8COpBNG-qJqTR2IW3&ll=43.664774893391936%2C24.56718262638249&z=5) - Map showcasing international college campuses in the United States.
+- [Submarine Cable Map](https://www.submarinecablemap.com/) - Interactive map showcasing the world's submarine cable systems.
+- [Observable](https://observablehq.com/) - A platform to explore, analyze, and explain data collaboratively.
+- [FixPhrase](https://fixphrase.com/) - Locate any place on Earth with just four words, useful for situations where dealing with a few words is more convenient than a long series of numbers.
+- [Common Crawl](https://commoncrawl.org/) - An open repository of web crawl data that can be accessed and analyzed by anyone.
+- [Mount Everest 3D Map](https://mount-everest3d.com/3d-map/) - Interactive 3D map of Mount Everest.
+- [Visualize Value Archive](https://archivve.visualizevalue.com/) - Archive of visual content from Visualize Value.
+- [Map of GitHub](https://anvaka.github.io/map-of-github/) - Visual representation of the GitHub repository network.
+- [Fliist](https://fliist.com/en) - Platform for creating and sharing your favorite lists.
+- [Search Engine Map](https://www.searchenginemap.com/) - Visual representation of popular search engines.
+- [Friendly Dubinsky](https://friendly-dubinsky-cb22fe.netlify.app/) - Maps of different places.
+- [Real-Time SpaceX Starlink Satellite Tracker](https://www.starlinkmap.org/) - Website providing a real-time tracker for SpaceX Starlink satellites.
+- [Interactive Data Map of ArXiv Machine Learning Papers](https://datamapplot.readthedocs.io/en/latest/auto_examples/plot_interactive_arxiv_ml.html) - Interactive data map displaying papers from the Machine Learning section of ArXiv.
+- [Album of Computational Fluid Motion](https://album-of-cfm.com/) - Collection showcasing computational fluid motion images.
+- [Visualization of Every Job Title in the World](https://duarteocarmo.com/blog/every-job-world) - Interactive visualization categorizing every single job title in the world into 10 categories.
+- [ObservableHQ](https://observablehq.com/@tophtucker/examples-of-bitemporal-charts) - Examples of bitemporal charts
+- [Fifty Years Progress Map](https://progress.fiftyyears.com/) - Highlights large markets with low startup investment. Provides a list of massive markets ranked by competitiveness, including market size and total investment in Series A startups over the last 10 years. Calculates a Competition Ratio for each market.
+- [The Uncensored Library](https://uncensoredlibrary.com/en) - Minecraft server and map released by Reporters Without Borders and created by BlockWorks, DDB Berlin, and MediaMonks as an attempt to circumvent censorship in countries without freedom of the press
+
+### Infographic
+
+- [Information is Beautiful](https://informationisbeautiful.net/) - Platform focusing on fact- and data-based decisions, presenting information through visually appealing graphics.
+- [Visual Capitalist](https://www.visualcapitalist.com/) - Source of data-driven visuals covering various topics such as markets, technology, energy, and the global economy.
+- [Infographic Journal](https://infographicjournal.com/) - Archive of infographics covering a wide range of topics.
+- [D3.js](https://d3js.org/) - JavaScript library for manipulating documents based on data, enabling the creation of dynamic and interactive data visualizations.
+- [Deniz Cem On Duygu Portfolio](https://www.denizcemonduygu.com/) - Personal portfolio of infographics.
+- [Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - Catalog providing information on various types of data visualizations.
+- [Tableau Public](https://public.tableau.com/app/discover) - Free platform to explore, create, and publicly share data visualizations online.
+- [Will Robots Take My Job?](https://willrobotstakemyjob.com/) - Estimates the automation risk, growth, wages, and more for various jobs.
+- [Preceden](https://www.preceden.com/) - Online timeline and roadmaps maker.
+- [Jason Davies](https://www.jasondavies.com/) - Personal website of Jason Davies showcasing his projects and visualizations.
+
+### Philosophy
+
+- [Desolhar Philo](https://www.desolhar-philo.com/) - Notes about philosophy.
+- [VisualizingSEP](https://www.visualizingsep.com/) - Interactive visualization and search engine for exploring the Stanford Encyclopedia of Philosophy.
+- [Hakob's Sandbox](https://hakobsandbox.openetext.utoronto.ca/) - Online book on the introduction to the history and philosophy of science.
+- [Philosophy A Level](https://philosophyalevel.com/)
+- [Deniz Cemon Duygu - History of Philosophy](https://www.denizcemonduygu.com/philo/browse/) - Summarized & Visualized.
+- [Interactive timeline of philosophical ideas](https://www.denizcemonduygu.com/portfolio/the-history-of-philosophy/). - Visual representation and exploration of the significant philosophers and their ideas.
+
+### Social Sciences
+
+- [Temple Manifold - All Projects](https://temple.manifoldapp.org/projects/all) - A collection of great resources on various social sciences.
+
+### History
+
+- [Histography](https://histography.io/) - An interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015.
+- [Unenumerated Blog](https://unenumerated.blogspot.com/) - A comprehensive and highly detailed blog covering various history topics.
+- [Human Origins - Human Family Tree](https://humanorigins.si.edu/evidence/human-family-tree) - An interactive Human Family Tree that explores the evolutionary history of humans.
+- [OldEra Timeline](https://timeline.oldera.org/) - An interactive timeline that allows you to view the entire history on a zoomable interface.
+- [Nuclear Secrecy Blog](https://blog.nuclearsecrecy.com/) - Historical information about nuclear secrecy, providing insights into the development and implications of nuclear weapons.
+- [The Ascent of Humanity](https://ascentofhumanity.com/) - Explores the concept of the Age of Separation, the Age of Reunion, and the convergence of crises shaping the transition in human history.
+- [Today in Science History](https://todayinsci.com/) - Platform offering historical events of a given date.
+- [Khipu Field Guide](https://khipufieldguide.com/guidebook/Introduction.html) - Guidebook providing information on khipus, the ancient Incan system of knotted strings for record-keeping.
+
+### Geoscience
+
+- [River Runner Global](https://river-runner-global.samlearner.com/) - Offers a visualization of the path of a rain droplet from any point in the world to its end point.
+- [Celestrak Satellite Visualization](https://celestrak.com/cesium/orbit-viz.php?tle=/pub/TLE/catalog.txt&satcat=/pub/satcat.txt&referenceFrame=1) - Provides satellite visualization tools.
+- [Mars Now](https://mars.nasa.gov/explore/mars-now/) - Shows the current positions of Mars's satellites, offering insights into Martian exploration.
+- [Physical Geology](https://temple.manifoldapp.org/projects/physical-geology) - Covers essential topics in Physical Geology.
+- [Flood Site](https://floodsite.net/juniorfloodsite/) - An educational resource about flooding.
+- [NEMO - Nucleus for European Modeling of the Ocean](https://www.nemo-ocean.eu/) - Platform providing information and resources related to ocean modeling for multifarious space and time scales, developed by a European consortium.
+- [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/?extent=25.56227,4.08691&extent=45.08904,70.00488&list=false) - Map displaying recent earthquake activity from the United States Geological Survey.
+
+### Biology
+
+- [Sectional Anatomy](https://www.sectional-anatomy.org/) - Free online tool for radiologic cross-sectional anatomy.
+- [Deep Sea](https://neal.fun/deep-sea/) - Platform to explore the depths of the seas.
+- [Ask Nature](https://asknature.org/) - Biology-inspired strategies, innovations, or educational resources.
+- [We Are Hosts for Memes](https://wearehostsformemes.com/) - You have been exposed to The Meta-meme
+
+## Physics
+
+- [The Theoretical Minimum](https://theoreticalminimum.com/home) - Series of Stanford Continuing Studies courses taught by world-renowned physicist Leonard Susskind.
+- [Theoretical Physics - Cambridge](https://www.damtp.cam.ac.uk/user/tong/index.html) - Resources and information about theoretical physics from the University of Cambridge.
+- [University of Virginia Classical and Modern Physics II](https://galileo.phys.virginia.edu/classes/632.ral5q.summer06/lectures.html) - Lecture notes and materials for the Classical and Modern Physics II course at the University of Virginia.
+- [Mueller Group - Cornell](https://muellergroup.lassp.cornell.edu/index.html) - Laboratory of Atomic and Solid State Physics at Cornell University.
+- [Ptable](https://ptable.com/?lang=en) - Interactive and customizable periodic table providing information about elements and their properties.
+
+### Quantum
+
+- <https://vsg.quasihome.com/interfer.htm> - Applet of Young's Double Slit Interference
+- [Webb Telescope](https://webbtelescope.org/) - Official website for the James Webb Space Telescope.
+
+### Astronomy
+
+- [Fear of Physics](https://www.fearofphysics.com/) - Offers a free "Astronomy 101" course.
+- [Galileo's Applets](https://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html) - Provides applets on early lunar observations and various motion-related topics.
+- [100,000 Stars](https://stars.chromeexperiments.com/) - A visualization of 100,000 nearby stars, providing an immersive experience.
+- [The Million Earth Solar System](https://planetplanet.net/2018/06/01/the-million-earth-solar-system/) - Explores the concept of a solar system with a million Earth-like planets.
+
+## Mathematics
+
+- [Open Logic Text](https://openlogicproject.org/about/) - Open-source, modular, collaboratively authored collection of teaching materials for formal (meta)logic and formal methodss.
+- [OEIS - The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) - Platform providing a comprehensive database of integer sequences.
+- [First Principles of Mathematics](https://pdodds.w3.uvm.edu/) - Resource covering first principles of various math topics.
+- [38 Best Math Websites for Students](https://blog.symbaloo.com/webmixes/11/best-math-websites) - Compilation of 38 recommended math websites for students.
+- [Math Hints](https://mathhints.com/) - Free website with simple explanations and examples for various math topics.
+- [Better Explained](https://betterexplained.com/) - Platform focusing on understanding math concepts rather than memorization, with clear lessons on topics like imaginary numbers and exponents.
+- [Mathway](https://www.mathway.com/) - Free math problem solver.
+- [ChiliMath](https://www.chilimath.com/) - Online resource for math topics.
+- [Visual and Interactive Introduction to Complex Analysis](https://complex-analysis.com/) - Resource providing a visual and interactive introduction to complex analysis.
+- [Matrices as Tensor Network Diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams) - Article discussing matrices represented as tensor network diagrams.
+- [What is Category Theory Anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway) - Exploring the grand scheme of mathematical things with category theory.
+- [Algebra Practice Problems](https://www.algebrapracticeproblems.com/) - Platform offering algebra practice problems with clear explanations.
+- [Matrixology](https://pdodds.w3.uvm.edu/teaching/courses/2016-08UVM-122/) - Matrixology course resource.
+- [Math Courses at NITK](https://sam.nitk.ac.in/courses-taught.html) - List of math courses taught at the National Institute of Technology Karnataka (NITK).
+- [Easy Mathematical Tricks from Counting Through Calculus](https://mathhints.com/) - Collection of easy mathematical tricks from counting through calculus.
+- [Math Salamanders](https://www.math-salamanders.com/) - Platform providing useful calculators (like Reverse Percentage Calculator) and math worksheets for kids or students.
+- [3Blue1Brown Non-Videos](https://some.3b1b.co/non-videos) - Non-video content winners of 3Blue1Brown's SoME.
+- [Mathigon – The Mathematical Playground](https://mathigon.org/) - Interactive mathematics platform offering educational content and resources.
+- [Math Warehouse](https://www.mathwarehouse.com/) - Offers interactive math activities, demonstrations, lessons with definitions and examples, worksheets, and other resources.
+
+### Math + Art
+
+- [Paul Nylander's website](https://bugman123.com/) - Favorite hobbies and interests, especially science, and art of Paul Nylander
+- [NYC DOE CS4All](https://nycdoe-cs4all.github.io/) - Introduction to Computational Media with p5.js
+- [Texample](https://texample.net/) - Examples and community of LaTeX
+- [Snowflakes Project](https://www.dynamicmath.xyz/collective-math-art/) - Snowflakes project by Collective Mathematical Art
+
+## Engineering
+
+- [Animagraffs](https://animagraffs.com/) - Educational website featuring detailed animated infographics (animagraffs) that visually explain complex topics and processes across various subjects.
+- [Technology Student](https://technologystudent.com/index.htm) - A resource containing numerous information sheets, exercises, and animations, covering various technology-related topics.
+- [Nuclear Power](https://www.nuclear-power.com/) - A non-profit project aimed at learning the basics of nuclear and reactor physics, covering topics such as nuclear power plants, reactor physics, thermal engineering, materials, and radiation protection.
+- [Knovel](https://app.knovel.com/kn) - A platform providing tools and calculators for various engineering and scientific purposes.
+- [Engineering Library](https://engineeringlibrary.org/reference/) - Reference library for engineering topics.
+- [Engineering Toolbox](https://www.engineeringtoolbox.com/index.html) - Online resource providing engineering tools and information.
+
+### Civil Engineering
+
+- [Floor Plan Lab](https://floorplanlab.com/) - Platform for creating and visualizing floorplans.
+- [Engineers Edge](https://www.engineersedge.com/) - Platform providing articles and resources on structural and mechanical engineering topics.
+- [3D House Planner](https://3dhouseplanner.com/) - Free 3D floor planner application on the web.
+
+### Mechanical Engineering
+
+- [507 Movements](https://507movements.com/toc.html) - Website featuring animated mechanical movements, providing a visual understanding of various mechanical systems.
+- [MadeHow](https://www.madehow.com/) - Resource explaining and detailing the manufacturing processes of a wide variety of products.
+- [Comprehensive Structural Analysis Book](https://temple.manifoldapp.org/projects/structural-analysis) - Online resource offering a comprehensive book on structural analysis.
+- [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) - Awesome Mechanical Engineering Resources.
+- [CalcResource](https://calcresource.com/resources.html) - Regularly updated list of resources focused on mechanics and statics, aiding in learning and understanding these subjects.
+- [Engineering Toolbox](https://www.engineeringtoolbox.com/) - Comprehensive resource covering a wide range of engineering topics.
+- [StructX](https://structx.com/) - Website offering structural engineering resources for professionals and students.
+- [Amesweb](https://www.amesweb.info/) - Platform with calculators and articles covering various engineering topics.
+- [RoyMech](https://www.roymech.co.uk/) - Reference site with in-depth articles on structural and mechanical engineering subjects.
+- [Arcelor-Mittal Design Software](https://sections.arcelormittal.com/design_aid/design_software/EN) - Free design software for steel structures provided by Arcelor-Mittal.
+- [BU Moss](https://www.bu.edu/moss/) - Courses and resources focused on understanding slender structures.
+- [Homestyler](https://www.homestyler.com/) - Easy and time-saving online interior design tool catering to both professionals and amateurs.
+- [How a Car Works](https://www.howacarworks.com/) - Complete and free guide explaining how cars work.
+- [IIHS Ratings](https://www.iihs.org/ratings) - Crash test ratings and safety information from the Insurance Institute for Highway Safety.
+- [Euro NCAP](https://www.euroncap.com/en/) - European New Car Assessment Programme providing safety ratings for vehicles.
+
+#### Materials / Nanotechnology
+
+- [DoITPoMS](https://www.doitpoms.ac.uk/index.php) - DoITPoMS from Department of Materials Science and Metallurgy, University of Cambridge
+- [Nanoscience Resources](https://ssd.phys.strath.ac.uk/) - Nanoscience resources of the Department of Physics at the University of Strathclyde
+- [MIT OpenCourseWare - Materials Science and Engineering](https://web.mit.edu/16.unified/www/SPRING/materials/index.html) - Concepts are deeply examined
+- [StatNano](https://product.statnano.com/) - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
+- [MyMiniFactory](https://www.myminifactory.com/) - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
+- [Roy Mech](https://roymech.org/) - This site provides useful information, tables , schedules and formula related to mechanical engineering and engineering materials.
+
+#### Thermodynamics
+
+- <https://users.wpi.edu/~sullivan/ES3001/Lectures/> - For thermo, go to [Lectures/Lecture-A](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/) (or [Lectures/Lecture-B/](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-B/)) and then go to [Lectures/Lecture-A/Lecture-1](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/Lecture-1.htm)
+- <https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html> - Thermodynamics and Propulsion by Prof. Z. S. Spakovszky
+- <https://ouopentextbooks.org/thermodynamics/> - Web-based, open educational resource (no longer being actively developed)
+
+#### Control
+
+- <https://linklab-uva.github.io/modeling_cps/schedule.html> - Principles of Modeling for Cyber-Physical Systems
+- [engin.umich](https://ctms.engin.umich.edu/CTMS/index.php?aux=About_Tutorials) - To learn how to use MATLAB and Simulink for the analysis and design of automatic control systems
+
+#### Vibrations
+
+- <https://www.acs.psu.edu/drussell/demos.html> - Acoustics and Vibration Animations
+
+### Electronics Engineering
+
+- [Electrical4U](https://www.electrical4u.com/) - Platform for learning electrical engineering.
+- [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Resource providing tutorials on various aspects of electronics.
+- [Octopart](https://octopart.com/) - Platform for electronic parts, helping users find and compare components.
+- [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
+- [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
+
+## Computer Science
+
+- [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
+- [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
+- [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) - Curriculum for computer science studies provided by the Open Source Society University.
+- [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
+- [Menimagerie](https://www.menimagerie.com/) - Explore concepts in theoretical computer science, from the number system to Cantor infinities, Godel's theorems, and automat.
+- [Computer Science Library](https://www.compscilib.com/) - Platform aiding in mastering concepts in computer science and math courses with automated step-by-step solutions and practice problems.
+- [Computer Jargon](https://www.computerhope.com/jargon.htm) - Glossary of computer-related jargon and technical terms.
+- [Talks by Alan Kay](https://tinlizzie.org/IA/index.php/Talks_by_Alan_Kay) - Collection of talks by computer scientist Alan Kay.
+- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html) - Tool to convert between the decimal representation of a number and the binary format used by modern CPUs, based on IEEE-754 standard.
+- [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - Guide to x86 Assembly by University of Virginia Computer Science
+
+### Data Structures and Algorithms (DS&A)
+
+- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) - NIST's Dictionary of Algorithms and Data Structures.
+- [Visualgo](https://visualgo.net/en) - Platform for visualizing data structures and algorithms through animations.
+- [Adventures In Coding & Algorithms](https://entcheva.github.io/) - Blog exploring coding and algorithms.
+- [Damn Cool Algorithms](https://blog.notdot.net/tag/damn-cool-algorithms) - Blog featuring posts on particularly interesting algorithms.
+- [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/) - Video lectures on algorithms by Steven Skiena.
+- [Visual Algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/) - Platform presenting visual representations of algorithms.
+- [Sinon - Algorithms](https://sinon.org/algorithms/) - Summarized page covering important results from computer science.
+
+### Big-O notation
+
+- [Algorithms and Data Structures Big-O Notation](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/) - Comprehensive resource covering Big-O notation for various algorithms and data structures.
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - Webpage presenting the space and time complexities (Big-O) of common algorithms used in Computer Science.
+- [Comp160 Data Cheat](https://www.clear.rice.edu/comp160/data_cheat.html) - Resource providing information on data structures and related concepts in computer science.
+
 ## Automotive
 
 ### Parts
 - [1aauto](https://www.1aauto.com/) - 1aauto Parts
+
+### Repair
 
 ## Tools
 
@@ -902,380 +1278,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [SimpleDesktops](https://simpledesktops.com/browse/) - Collection of minimal wallpapers for desktop backgrounds.
 - [WallpaperFlare](https://www.wallpaperflare.com/search?wallpaper=vertical) - Website offering high-resolution vertical wallpapers.
 - [Positron Dream](https://www.positrondream.com/wallpapers-all) - Collection of abstract wallpapers available for download.
-
-## Academia
-
-- [TLDR This](https://tldrthis.com/) - Platform to summarize any piece of text into concise, easy-to-digest content, helping users overcome information overload.
-- [Archive.org General Index](https://archive.org/details/GeneralIndex) - General index providing access to over 107 million journal articles.
-- [Homework Help Global](https://www.homeworkhelpglobal.com/) - Online platform offering professional and custom essay writing services.
-- [Dartmouth Academic Careers](https://sites.dartmouth.edu/nyhan/academic-careers/) - Resource providing insights into academic careers.
-- [CNX](https://cnx.org/) - Platform to view and share free educational materials.
-- [Reach Out Michigan Tutorials](https://www.reachoutmichigan.org/learn/tutorials.html#math) - Collection of online tutorials and references covering various topics.
-- [Open Text BC](https://opentextbc.ca/) - Simple book production software allowing users to publish textbooks, scholarly monographs, syllabi, fiction and non-fiction books, white papers, and more in multiple formats.
-- [Modern for Wikipedia](https://chrome.google.com/webstore/detail/modern-for-wikipedia/emdkdnnopdnajipoapepbeeiemahbjcn) - Chrome extension enhancing the Wikipedia experience with a modern and customizable design.
-- [Wikiwand - Wikipedia Modern](https://chrome.google.com/webstore/detail/wikiwand-wikipedia-modern/emffkefkbkpkgpdeeooapgaicgmcbolj) - Chrome extension optimizing Wikipedia's content for an improved reading experience.
-- [List of Academic Databases and Search Engines](https://en.wikipedia.org/wiki/List_of_academic_databases_and_search_engines) - Wikipedia page listing academic databases and search engines.
-- [Scribbr APA Citation Generator](https://www.scribbr.com/citation/generator/apa/) - Platform providing accurate APA citations, verified by experts and trusted by millions.
-- [Bridges: About Institutions, Histories, and Artifacts](https://temple.manifoldapp.org/projects/bridges) - Resource about institutions, histories, and artifacts of United States college and university life.
-- [Tropy](https://tropy.org/) - Platform to organize research by turning photos into items.
-- [Linda Hall Library Catalog](https://catalog.lindahall.org/discovery/search?vid=01LINDAHALL_INST:LHL) - Catalog of the Linda Hall Library that allows you to search for books, journals, conference proceedings, technical reports and standards, and other materials, focusing on science, engineering, and technology.
-- [Project Abstracts](https://projectabstracts.com/) - Collection of project abstracts and downloads for academic mini projects and final year projects across various fields.
-
-### Studying
-
-- [Bartleby](https://www.bartleby.com/) - A platform to search for textbooks, step-by-step explanations to homework questions, and more.
-- [Chegg](https://www.chegg.com/) ($) - A service offering 24/7 course help, including textbook solutions and expert Q&A.
-- [Chegg Flashcards](https://www.chegg.com/flashcards) (@) - Study with flashcards created by students and experts for various courses.
-
-### Calculators
-
-- [Calc Resource](https://calcresource.com/index.html) - Platform offering a variety of calculators and resources for mathematical calculations.
-- [eFunda](https://www.efunda.com/home.cfm) - Website providing calculators, formulas, and information on materials and processes.
-- [LCM Calculator](https://www.calculator.net/lcm-calculator.html) - Calculator for finding the Least Common Multiple.
-- [GCF Calculator](https://www.calculator.net/gcf-calculator.html?numberinputs=9%2C+57%2C+72&x=75&y=22) - Calculator for finding the Greatest Common Factor.
-- [CalculatorSoup](https://www.calculatorsoup.com/) - Online platform offering a variety of calculators for different mathematical purposes.
-- [RapidTables](https://www.rapidtables.com/) - Website providing a collection of calculators and tables for quick reference.
-- [Linear Algebra Calculator](https://www.emathhelp.net/en/linear-algebra-calculator/?u=3%2C1%2C4&v=-2%2C0%2C5&action=cross+product) - Calculator for linear algebra calculations, such as cross product.
-- [Wikipedia: List of Physical Quantities](https://en.wikipedia.org/wiki/List_of_physical_quantities) - Wikipedia page listing various physical quantities.
-- [eMathHelp Linear Algebra Calculator](https://www.emathhelp.net/en/calculators/linear-algebra/) - Online calculator for linear algebra calculations.
-- [Online Math School](https://onlinemschool.com/math/assistance/) - Platform providing math assistance with various calculators and resources.
-
-### MOOC (Massive Open Online Courses)
-
-- [InfoCobuild - Audio Video Courses](http://www.infocobuild.com/education/audio-video-courses/) - Collection of free audio/video lectures for academic courses from colleges and universities around the world. It is well-categorized with academic subjects including biology, chemistry, computer science, economics, electronics and electrical engineering, history, literature, materials science, mathematics, physics, and psychology.
-- [MIT OpenCourseWare](https://ocw.mit.edu/) - MIT's initiative offering free and open access to a wide range of course materials.
-- [Coursera](https://www.coursera.org/) - Online learning platform providing courses, certificates, and degree programs from universities and organizations worldwide.
-- [Wikiversity](https://en.wikiversity.org/wiki/Wikiversity:Main_Page) - Wikimedia Foundation project providing free educational content and resources.
-- [Udemy](https://www.udemy.com/) - Platform offering a vast array of online courses on various subjects, taught by experts.
-- [Open Culture](https://www.openculture.com/) - Website providing free cultural and educational media, including courses, textbooks, and audiobooks.
-- [edX](https://www.edx.org/) - Online learning platform offering courses, certificates, and degrees from universities and institutions around the world.
-- [Udacity](https://www.udacity.com/) - Platform specializing in tech-related courses and nanodegree programs designed in collaboration with industry leaders.
-- [Stanford Online](https://online.stanford.edu/) - Stanford University's platform for online learning, offering a variety of courses and programs.
-- [OpenLearn](https://www.open.edu/openlearn/) - The Open University's initiative providing free access to course materials and educational resources.
-- [Open Learning Initiative (OLI)](https://oli.cmu.edu/) - Carnegie Mellon University's platform offering openly available courses and resources.
-- [MITx](https://www.mitx.org/) - MIT's platform providing online courses and programs with a focus on cutting-edge research.
-- [Open Yale Courses](https://oyc.yale.edu/) - Yale University's initiative providing free access to introductory courses taught by distinguished faculty.
-- [Alison](https://alison.com/) - Platform offering free online courses and diplomas across a range of subjects.
-- [Academic Earth](https://academicearth.org/) - Website aggregating online courses from top universities worldwide.
-- [NPTEL](https://nptel.ac.in/) - National Programme on Technology Enhanced Learning, providing online courses in engineering and science.
-- [University of the People](https://www.uopeople.edu/) - Online university offering tuition-free, accredited degree programs.
-- [Canvas Network](https://www.canvas.net/) - Platform offering online courses and programs from various institutions using the Canvas learning management system.
-- [Isaac Newton Institute for Mathematical Sciences](https://www.newton.ac.uk/) - Institute's website providing access to mathematical science resources and programs.
-- [Saylor Academy](https://www.saylor.org/) - Nonprofit initiative offering free, self-paced online courses.
-- [Connexions](https://cnx.org/) - Platform providing open educational resources and textbooks in various subject areas.
-- [Directory of Open Access Journals (DOAJ)](https://doaj.org/) - Online directory providing access to high-quality, open-access scientific and scholarly journals.
-- [Learning on the Internet](https://www.learningontheinternet.com/?ref=producthunt) - Platform featuring curated educational content and resources from various sources.
-- [Class Central](https://www.classcentral.com/) - Search engine and reviews platform for online courses, aggregating courses from various providers.
-- [OCW SNU](https://ocw.snu.ac.kr/) - Open CourseWare from Seoul National University.
-
-## Science
-
-- [Reproducibility Institute](https://reproducibilityinstitute.org/w/) - Projects that provide academic papers, cheatsheets, and torrents for paid courses.
-- [EBSCO](https://www.ebsco.com/) - Provider of research databases, e-journals, magazine subscriptions, ebooks, and discovery service.
-- [Zooniverse](https://www.zooniverse.org/) - Participate in real research with over 50 active online citizen science projects.
-- [Experiment](https://experiment.com/) - Help fund the next wave of scientific research.
-- [Closer to Truth](https://www.closertotruth.com/) - Robert Lawrence Kuhn explores the fundamental questions of the universe.
-- [Nature Scitable](https://www.nature.com/scitable/) - Library of scientific overviews. Customize your own eBooks, create an online classroom, contribute and share content, and connect with networks of colleagues.
-- [Vinaire](https://vinaire.me/) - Physics and Math classes.
-
-### Biographies
-
-- [Mathematics History](https://mathshistory.st-andrews.ac.uk/) - Free online resource containing biographies of more than 3000 mathematicians and over 2000 pages of essays and supporting materials.
-- [Web of Stories](https://www.webofstories.com/) - Listen to life stories of some of the greatest people of our time.
-- [Letters of Note](https://lettersofnote.com/) - History’s most fascinating letters.
-- [Organism Earth Library](https://www.organism.earth/library/).
-- [Darwin Project](https://www.darwinproject.ac.uk/) - Letters written by the evolutionary scientist, Charles Darwin (1809–1882).
-- [Darwin Online](https://darwin-online.org.uk/) - The world's largest and most widely used resource on Charles Darwin.
-- [Newton Project](https://www.newtonproject.ox.ac.uk/) - Online edition of all of Sir Isaac Newton’s (1642–1727) writings.
-- [Bethe](https://bethe.cornell.edu/index.html) - Personal and historical perspectives of Hans Bethe.
-- [Open Source Shakespeare](https://www.opensourceshakespeare.org/) - Open source Shakespeare.
-- [Leonardo da Vinci](https://www.leonardodavinci.net/) - Leonardo da Vinci, his life, and artworks.
-- [Our Karl Popper](https://ourkarlpopper.net/) - How Karl Popper has made a difference in our lives (Testimonies from the five continents).
-- [Varlam Shalamov](https://shalamov.ru/en/) - Writings and historical background of Varlam Shalamov, a Russian writer known for his series of short stories about imprisonment in Soviet labor camps.
-- [Samuel Beckett On-Line Resources](https://www.samuel-beckett.net/) - The Samuel Beckett On-Line Resources and Links Pages. (Samuel Beckett's [Waiting for Godot](https://www.samuel-beckett.net/Waiting_for_Godot_Part1.html))
-- [Philip K. Dick](https://philipdick.com/) - Devoted to the life and work of Science Fiction writer Philip K. Dick (1928-82).
-- [Alan Turing Digital Archive](https://turingarchive.kings.cam.ac.uk/) - This digital archive contains many of Turing's letters, transcriptions of talks, photographs, and unpublished papers.
-- [Turing.org.uk](https://www.turing.org.uk/) - Platform dedicated to the life and work of Alan Turing, the mathematician and computer scientist.
-- [Sherlock Holmes Series](https://sherlock-holm.es/) - Sir Arthur Conan Doyle's Sherlock Holmes series (Public Domain, Copyright-free).
-- [Feynman Lectures Online](https://www.feynmanlectures.caltech.edu/) - Richard Feynman's lectures online.
-- [Leibniz Translations](https://www.leibniz-translations.com/index2.php) - Resource offering translations of the works of philosopher and mathematician Gottfried Wilhelm Leibniz.
-- [David Hume](https://davidhume.org/) - Platform dedicated to the Scottish philosopher David Hume. Accurate, helpful presentation of virtually everything Hume ever wrote.
-- [Fooled by Randomness](https://fooledbyrandomness.com/) - Nassim Nicholas Taleb's Home Page.
-- [Prabook](https://prabook.com/web/home.html) - Platform providing biographical information on notable individuals.
-- [Famous Mathematicians](https://famous-mathematicians.org/) - Website featuring information and biographies of famous mathematicians.
-
-### Books, Articles, Texts
-
-- [Archive.org/texts](https://archive.org/details/texts) - A digital library offering free universal access to a vast collection of digital content.
-- [Open Library](https://openlibrary.org/) - A universal catalog for book metadata with access to a wide range of digital books.
-- [OpenStax](https://openstax.org/) - Provides free and flexible textbooks and resources for educational purposes.
-- [Project Gutenberg](https://www.gutenberg.org/) - A digital library offering over 60,000 free eBooks, including many classics.
-- [Wikibooks](https://en.wikibooks.org/wiki/Main_Page) - An open-content collection of textbooks that anyone can edit.
-- [Wikisource](https://wikisource.org/wiki/Main_Page) - A free library that allows collaborative improvement of its content.
-- [MIT Classics](https://classics.mit.edu/) - Select from a list of 441 works of classical literature by 59 different authors.
-- [Goodreads Free eBooks](https://www.goodreads.com/ebooks?sort=readable) - Free books available on Goodreads.
-- [Lit2Go](https://etc.usf.edu/lit2go/) - A free online collection of stories and poems in audiobook format (Mp3).
-- [Booksc](https://booksc.org/) - World's largest scientific articles store with 70,000,000+ free articles.
-- [IntechOpen](https://www.intechopen.com/books) - Read, share, and download more than 5,800 peer-reviewed Open Access books.
-- [FreeTechBooks](https://www.freetechbooks.com/) - A database of free/open access online computer science books, textbooks, and lecture notes.
-- [FreeComputerBooks](https://freecomputerbooks.com/) - Platform offering a collection of free computer science and programming books.
-- [Manning](https://www.manning.com/) - A publisher of programming books.
-- [Holy Books](https://holybooks.com/) - Download spiritual texts as free PDF e-books.
-- [Librivox](https://librivox.org/) - Provides free public domain audiobooks read by volunteers from around the world.
-- [Online Books Page](https://onlinebooks.library.upenn.edu/) - A listing of over 3 million free books on the web.
-- [Audible](https://www.audible.com/) (~$) - A platform offering premium audio storytelling with a wide selection of audiobooks.
-- [VCU Transcendentalism](https://archive.vcu.edu/english/engweb/transcendentalism/) - An educational hypertext space on transcendental texts with links to other internet spaces.
-- [Library of Short Stories](https://www.libraryofshortstories.com/) - An online library with over 1000 classic short stories available for reading and download.
-- [SlideShare](https://www.slideshare.net/) - Online platform for sharing presentations and documents.
-- [Free-eBooks.net](https://www.free-ebooks.net/) - Discover 1000's of New Authors in Hundreds of Categories Fiction and Non-Fiction.
-- [University of Pennsylvania Digital Library](https://digital.library.upenn.edu/books/) - Digital library providing access to a collection of books.
-- [Feedbooks Public Domain](https://www.feedbooks.com/catalog/public_domain) - Platform offering a catalog of public domain books for free.
-- [Authorama](https://www.authorama.com/) - Platform providing a collection of public domain books by different authors.
-- [Google Play - Top Selling Free Books](https://play.google.com/store/books/collection/topselling_free?clp=ChcKFQoPdG9wc2VsbGluZ19mcmVlEAcYAQ%3D%3D:S:ANO1ljKuey8&gsr=ChkKFwoVCg90b3BzZWxsaW5nX2ZyZWUQBxgB:S:ANO1ljIbX7M) - Collection of top-selling free books on Google Play.
-- [Taoism.net](https://taoism.net/) - Resource for exploring Taoism.
-- [Early Modern Texts](https://earlymoderntexts.com/) - Platform providing modern English translations of early modern philosophical texts.
-- [Online Library of Liberty](https://oll.libertyfund.org/) - Curated collection of scholarly works that engage with vital questions of liberty.
-- [Online Books Library](https://onlinebooks.library.upenn.edu/) - University of Pennsylvania's online library providing access to 3 million free books on the Web.
-- [Elegant eBooks](https://www.ibiblio.org/ebooks/) - Find great classics of fiction and non-fiction in stylish editions. Almost all of the ebooks on this site were made from books that are in the public domain.
-- [22 Free Data Science Books](https://www.wzchen.com/data-science-books) - A compilation of quality data science books available for free, curated to assist those exploring the data science career track. The last updated date of each book is included in parentheses.
-
-#### Book Recommendations and Summaries
-
-- [Read Next](https://read-next.com/) - A collection of 3,000+ books recommended by famous people from various domains such as scientists, investors, entrepreneurs, celebrities, and authors.
-- [Goodbooks](https://www.goodbooks.io/) - Offers 8,500+ book recommendations from successful and interesting individuals around the world.
-- [Most Recommended Books](https://mostrecommendedbooks.com/) - Curates 500+ experts, 600+ lists, 500+ book series, providing 100% verified book recommendations.
-- [Books Chatter](https://bookschatter.com/) - Find book recommendations from people's tweets, with tweets shown.
-- [Leafmarks](https://www.leafmarks.com/) - Explore book recommendations from famous authors, top CEOs, legendary investors, and favorite celebrities.
-- [Bookstash](https://bookstash.io/) - Features top books recommended by famous individuals, summarized in 3 minutes or less.
-- [Abakcus](https://abakcus.com/books/) - A collection of books about mathematics and some science.
-- [BookBub](https://www.bookbub.com/welcome) - Get personalized book recommendations based on your preferences.
-- [Hacker News Books](https://hackernewsbooks.com/) - Curates the best books mentioned on Hacker News each week.
-- [Goodreads](https://www.goodreads.com/) - The world's largest site for readers and book recommendations.
-- [What Should I Read Next?](https://www.whatshouldireadnext.com/) - Enter a book you like and the site will analyse our huge database of real readers' favorite books to provide book recommendations and suggestions for what to read next.
-- [Blas](https://blas.com/) - Summarizes more than 400 books by Blas Moros.
-- [Google Books - Talk to Books](https://books.google.com/talktobooks/) - Platform allowing users to have a conversation with books using natural language.
-
-### Maps and Data
-
-- [Our World in Data](https://ourworldindata.org/covid-vaccinations) - COVID-19 vaccination data by country.
-- [WebSDR](https://websdr.org/) - A Software-Defined Radio receiver connected to the internet, allowing many listeners to listen and tune it simultaneously, capturing current signals from Earth.
-- [GSM Security Map](https://gsmmap.org/) - A map comparing the protection capabilities of mobile networks regarding GSM security.
-- [International Campuses](https://cbert.org/resources-data/intl-campus/) - A list of international campuses.
-- [United States International College Campuses on Google Maps](https://www.google.com/maps/d/u/0/viewer?mid=1ckm_TSM8mbCrnhA8COpBNG-qJqTR2IW3&ll=43.664774893391936%2C24.56718262638249&z=5) - Map showcasing international college campuses in the United States.
-- [Submarine Cable Map](https://www.submarinecablemap.com/) - Interactive map showcasing the world's submarine cable systems.
-- [Observable](https://observablehq.com/) - A platform to explore, analyze, and explain data collaboratively.
-- [FixPhrase](https://fixphrase.com/) - Locate any place on Earth with just four words, useful for situations where dealing with a few words is more convenient than a long series of numbers.
-- [Common Crawl](https://commoncrawl.org/) - An open repository of web crawl data that can be accessed and analyzed by anyone.
-- [Mount Everest 3D Map](https://mount-everest3d.com/3d-map/) - Interactive 3D map of Mount Everest.
-- [Visualize Value Archive](https://archivve.visualizevalue.com/) - Archive of visual content from Visualize Value.
-- [Map of GitHub](https://anvaka.github.io/map-of-github/) - Visual representation of the GitHub repository network.
-- [Fliist](https://fliist.com/en) - Platform for creating and sharing your favorite lists.
-- [Search Engine Map](https://www.searchenginemap.com/) - Visual representation of popular search engines.
-- [Friendly Dubinsky](https://friendly-dubinsky-cb22fe.netlify.app/) - Maps of different places.
-- [Real-Time SpaceX Starlink Satellite Tracker](https://www.starlinkmap.org/) - Website providing a real-time tracker for SpaceX Starlink satellites.
-- [Interactive Data Map of ArXiv Machine Learning Papers](https://datamapplot.readthedocs.io/en/latest/auto_examples/plot_interactive_arxiv_ml.html) - Interactive data map displaying papers from the Machine Learning section of ArXiv.
-- [Album of Computational Fluid Motion](https://album-of-cfm.com/) - Collection showcasing computational fluid motion images.
-- [Visualization of Every Job Title in the World](https://duarteocarmo.com/blog/every-job-world) - Interactive visualization categorizing every single job title in the world into 10 categories.
-- [ObservableHQ](https://observablehq.com/@tophtucker/examples-of-bitemporal-charts) - Examples of bitemporal charts
-- [Fifty Years Progress Map](https://progress.fiftyyears.com/) - Highlights large markets with low startup investment. Provides a list of massive markets ranked by competitiveness, including market size and total investment in Series A startups over the last 10 years. Calculates a Competition Ratio for each market.
-- [The Uncensored Library](https://uncensoredlibrary.com/en) - Minecraft server and map released by Reporters Without Borders and created by BlockWorks, DDB Berlin, and MediaMonks as an attempt to circumvent censorship in countries without freedom of the press
-
-### Infographic
-
-- [Information is Beautiful](https://informationisbeautiful.net/) - Platform focusing on fact- and data-based decisions, presenting information through visually appealing graphics.
-- [Visual Capitalist](https://www.visualcapitalist.com/) - Source of data-driven visuals covering various topics such as markets, technology, energy, and the global economy.
-- [Infographic Journal](https://infographicjournal.com/) - Archive of infographics covering a wide range of topics.
-- [D3.js](https://d3js.org/) - JavaScript library for manipulating documents based on data, enabling the creation of dynamic and interactive data visualizations.
-- [Deniz Cem On Duygu Portfolio](https://www.denizcemonduygu.com/) - Personal portfolio of infographics.
-- [Data Visualization Catalogue](https://datavizcatalogue.com/index.html) - Catalog providing information on various types of data visualizations.
-- [Tableau Public](https://public.tableau.com/app/discover) - Free platform to explore, create, and publicly share data visualizations online.
-- [Will Robots Take My Job?](https://willrobotstakemyjob.com/) - Estimates the automation risk, growth, wages, and more for various jobs.
-- [Preceden](https://www.preceden.com/) - Online timeline and roadmaps maker.
-- [Jason Davies](https://www.jasondavies.com/) - Personal website of Jason Davies showcasing his projects and visualizations.
-
-### Philosophy
-
-- [Desolhar Philo](https://www.desolhar-philo.com/) - Notes about philosophy.
-- [VisualizingSEP](https://www.visualizingsep.com/) - Interactive visualization and search engine for exploring the Stanford Encyclopedia of Philosophy.
-- [Hakob's Sandbox](https://hakobsandbox.openetext.utoronto.ca/) - Online book on the introduction to the history and philosophy of science.
-- [Philosophy A Level](https://philosophyalevel.com/)
-- [Deniz Cemon Duygu - History of Philosophy](https://www.denizcemonduygu.com/philo/browse/) - Summarized & Visualized.
-- [Interactive timeline of philosophical ideas](https://www.denizcemonduygu.com/portfolio/the-history-of-philosophy/). - Visual representation and exploration of the significant philosophers and their ideas.
-
-### Social Sciences
-
-- [Temple Manifold - All Projects](https://temple.manifoldapp.org/projects/all) - A collection of great resources on various social sciences.
-
-### History
-
-- [Histography](https://histography.io/) - An interactive timeline that spans across 14 billion years of history, from the Big Bang to 2015.
-- [Unenumerated Blog](https://unenumerated.blogspot.com/) - A comprehensive and highly detailed blog covering various history topics.
-- [Human Origins - Human Family Tree](https://humanorigins.si.edu/evidence/human-family-tree) - An interactive Human Family Tree that explores the evolutionary history of humans.
-- [OldEra Timeline](https://timeline.oldera.org/) - An interactive timeline that allows you to view the entire history on a zoomable interface.
-- [Nuclear Secrecy Blog](https://blog.nuclearsecrecy.com/) - Historical information about nuclear secrecy, providing insights into the development and implications of nuclear weapons.
-- [The Ascent of Humanity](https://ascentofhumanity.com/) - Explores the concept of the Age of Separation, the Age of Reunion, and the convergence of crises shaping the transition in human history.
-- [Today in Science History](https://todayinsci.com/) - Platform offering historical events of a given date.
-- [Khipu Field Guide](https://khipufieldguide.com/guidebook/Introduction.html) - Guidebook providing information on khipus, the ancient Incan system of knotted strings for record-keeping.
-
-### Geoscience
-
-- [River Runner Global](https://river-runner-global.samlearner.com/) - Offers a visualization of the path of a rain droplet from any point in the world to its end point.
-- [Celestrak Satellite Visualization](https://celestrak.com/cesium/orbit-viz.php?tle=/pub/TLE/catalog.txt&satcat=/pub/satcat.txt&referenceFrame=1) - Provides satellite visualization tools.
-- [Mars Now](https://mars.nasa.gov/explore/mars-now/) - Shows the current positions of Mars's satellites, offering insights into Martian exploration.
-- [Physical Geology](https://temple.manifoldapp.org/projects/physical-geology) - Covers essential topics in Physical Geology.
-- [Flood Site](https://floodsite.net/juniorfloodsite/) - An educational resource about flooding.
-- [NEMO - Nucleus for European Modeling of the Ocean](https://www.nemo-ocean.eu/) - Platform providing information and resources related to ocean modeling for multifarious space and time scales, developed by a European consortium.
-- [USGS Earthquake Map](https://earthquake.usgs.gov/earthquakes/map/?extent=25.56227,4.08691&extent=45.08904,70.00488&list=false) - Map displaying recent earthquake activity from the United States Geological Survey.
-
-### Biology
-
-- [Sectional Anatomy](https://www.sectional-anatomy.org/) - Free online tool for radiologic cross-sectional anatomy.
-- [Deep Sea](https://neal.fun/deep-sea/) - Platform to explore the depths of the seas.
-- [Ask Nature](https://asknature.org/) - Biology-inspired strategies, innovations, or educational resources.
-- [We Are Hosts for Memes](https://wearehostsformemes.com/) - You have been exposed to The Meta-meme
-
-## Physics
-
-- [The Theoretical Minimum](https://theoreticalminimum.com/home) - Series of Stanford Continuing Studies courses taught by world-renowned physicist Leonard Susskind.
-- [Theoretical Physics - Cambridge](https://www.damtp.cam.ac.uk/user/tong/index.html) - Resources and information about theoretical physics from the University of Cambridge.
-- [University of Virginia Classical and Modern Physics II](https://galileo.phys.virginia.edu/classes/632.ral5q.summer06/lectures.html) - Lecture notes and materials for the Classical and Modern Physics II course at the University of Virginia.
-- [Mueller Group - Cornell](https://muellergroup.lassp.cornell.edu/index.html) - Laboratory of Atomic and Solid State Physics at Cornell University.
-- [Ptable](https://ptable.com/?lang=en) - Interactive and customizable periodic table providing information about elements and their properties.
-
-### Quantum
-
-- <https://vsg.quasihome.com/interfer.htm> - Applet of Young's Double Slit Interference
-- [Webb Telescope](https://webbtelescope.org/) - Official website for the James Webb Space Telescope.
-
-### Astronomy
-
-- [Fear of Physics](https://www.fearofphysics.com/) - Offers a free "Astronomy 101" course.
-- [Galileo's Applets](https://galileo.phys.virginia.edu/classes/109N/more_stuff/Applets/home.html) - Provides applets on early lunar observations and various motion-related topics.
-- [100,000 Stars](https://stars.chromeexperiments.com/) - A visualization of 100,000 nearby stars, providing an immersive experience.
-- [The Million Earth Solar System](https://planetplanet.net/2018/06/01/the-million-earth-solar-system/) - Explores the concept of a solar system with a million Earth-like planets.
-
-## Mathematics
-
-- [Open Logic Text](https://openlogicproject.org/about/) - Open-source, modular, collaboratively authored collection of teaching materials for formal (meta)logic and formal methodss.
-- [OEIS - The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) - Platform providing a comprehensive database of integer sequences.
-- [First Principles of Mathematics](https://pdodds.w3.uvm.edu/) - Resource covering first principles of various math topics.
-- [38 Best Math Websites for Students](https://blog.symbaloo.com/webmixes/11/best-math-websites) - Compilation of 38 recommended math websites for students.
-- [Math Hints](https://mathhints.com/) - Free website with simple explanations and examples for various math topics.
-- [Better Explained](https://betterexplained.com/) - Platform focusing on understanding math concepts rather than memorization, with clear lessons on topics like imaginary numbers and exponents.
-- [Mathway](https://www.mathway.com/) - Free math problem solver.
-- [ChiliMath](https://www.chilimath.com/) - Online resource for math topics.
-- [Visual and Interactive Introduction to Complex Analysis](https://complex-analysis.com/) - Resource providing a visual and interactive introduction to complex analysis.
-- [Matrices as Tensor Network Diagrams](https://www.math3ma.com/blog/matrices-as-tensor-network-diagrams) - Article discussing matrices represented as tensor network diagrams.
-- [What is Category Theory Anyway?](https://www.math3ma.com/blog/what-is-category-theory-anyway) - Exploring the grand scheme of mathematical things with category theory.
-- [Algebra Practice Problems](https://www.algebrapracticeproblems.com/) - Platform offering algebra practice problems with clear explanations.
-- [Matrixology](https://pdodds.w3.uvm.edu/teaching/courses/2016-08UVM-122/) - Matrixology course resource.
-- [Math Courses at NITK](https://sam.nitk.ac.in/courses-taught.html) - List of math courses taught at the National Institute of Technology Karnataka (NITK).
-- [Easy Mathematical Tricks from Counting Through Calculus](https://mathhints.com/) - Collection of easy mathematical tricks from counting through calculus.
-- [Math Salamanders](https://www.math-salamanders.com/) - Platform providing useful calculators (like Reverse Percentage Calculator) and math worksheets for kids or students.
-- [3Blue1Brown Non-Videos](https://some.3b1b.co/non-videos) - Non-video content winners of 3Blue1Brown's SoME.
-- [Mathigon – The Mathematical Playground](https://mathigon.org/) - Interactive mathematics platform offering educational content and resources.
-- [Math Warehouse](https://www.mathwarehouse.com/) - Offers interactive math activities, demonstrations, lessons with definitions and examples, worksheets, and other resources.
-
-### Math + Art
-
-- [Paul Nylander's website](https://bugman123.com/) - Favorite hobbies and interests, especially science, and art of Paul Nylander
-- [NYC DOE CS4All](https://nycdoe-cs4all.github.io/) - Introduction to Computational Media with p5.js
-- [Texample](https://texample.net/) - Examples and community of LaTeX
-- [Snowflakes Project](https://www.dynamicmath.xyz/collective-math-art/) - Snowflakes project by Collective Mathematical Art
-
-## Engineering
-
-- [Animagraffs](https://animagraffs.com/) - Educational website featuring detailed animated infographics (animagraffs) that visually explain complex topics and processes across various subjects.
-- [Technology Student](https://technologystudent.com/index.htm) - A resource containing numerous information sheets, exercises, and animations, covering various technology-related topics.
-- [Nuclear Power](https://www.nuclear-power.com/) - A non-profit project aimed at learning the basics of nuclear and reactor physics, covering topics such as nuclear power plants, reactor physics, thermal engineering, materials, and radiation protection.
-- [Knovel](https://app.knovel.com/kn) - A platform providing tools and calculators for various engineering and scientific purposes.
-- [Engineering Library](https://engineeringlibrary.org/reference/) - Reference library for engineering topics.
-- [Engineering Toolbox](https://www.engineeringtoolbox.com/index.html) - Online resource providing engineering tools and information.
-
-### Civil Engineering
-
-- [Floor Plan Lab](https://floorplanlab.com/) - Platform for creating and visualizing floorplans.
-- [Engineers Edge](https://www.engineersedge.com/) - Platform providing articles and resources on structural and mechanical engineering topics.
-- [3D House Planner](https://3dhouseplanner.com/) - Free 3D floor planner application on the web.
-
-### Mechanical Engineering
-
-- [507 Movements](https://507movements.com/toc.html) - Website featuring animated mechanical movements, providing a visual understanding of various mechanical systems.
-- [MadeHow](https://www.madehow.com/) - Resource explaining and detailing the manufacturing processes of a wide variety of products.
-- [Comprehensive Structural Analysis Book](https://temple.manifoldapp.org/projects/structural-analysis) - Online resource offering a comprehensive book on structural analysis.
-- [Awesome MechEng](https://github.com/m2n037/awesome-mecheng#heat-transfer) - Awesome Mechanical Engineering Resources.
-- [CalcResource](https://calcresource.com/resources.html) - Regularly updated list of resources focused on mechanics and statics, aiding in learning and understanding these subjects.
-- [Engineering Toolbox](https://www.engineeringtoolbox.com/) - Comprehensive resource covering a wide range of engineering topics.
-- [StructX](https://structx.com/) - Website offering structural engineering resources for professionals and students.
-- [Amesweb](https://www.amesweb.info/) - Platform with calculators and articles covering various engineering topics.
-- [RoyMech](https://www.roymech.co.uk/) - Reference site with in-depth articles on structural and mechanical engineering subjects.
-- [Arcelor-Mittal Design Software](https://sections.arcelormittal.com/design_aid/design_software/EN) - Free design software for steel structures provided by Arcelor-Mittal.
-- [BU Moss](https://www.bu.edu/moss/) - Courses and resources focused on understanding slender structures.
-- [Homestyler](https://www.homestyler.com/) - Easy and time-saving online interior design tool catering to both professionals and amateurs.
-- [How a Car Works](https://www.howacarworks.com/) - Complete and free guide explaining how cars work.
-- [IIHS Ratings](https://www.iihs.org/ratings) - Crash test ratings and safety information from the Insurance Institute for Highway Safety.
-- [Euro NCAP](https://www.euroncap.com/en/) - European New Car Assessment Programme providing safety ratings for vehicles.
-
-#### Materials / Nanotechnology
-
-- [DoITPoMS](https://www.doitpoms.ac.uk/index.php) - DoITPoMS from Department of Materials Science and Metallurgy, University of Cambridge
-- [Nanoscience Resources](https://ssd.phys.strath.ac.uk/) - Nanoscience resources of the Department of Physics at the University of Strathclyde
-- [MIT OpenCourseWare - Materials Science and Engineering](https://web.mit.edu/16.unified/www/SPRING/materials/index.html) - Concepts are deeply examined
-- [StatNano](https://product.statnano.com/) - Reliable source of information about nanotechnology products, currently used in a broad range of industrial applications
-- [MyMiniFactory](https://www.myminifactory.com/) - World’s largest ecosystem of free to download, 3D printable objects of cultural significance
-- [Roy Mech](https://roymech.org/) - This site provides useful information, tables , schedules and formula related to mechanical engineering and engineering materials.
-
-#### Thermodynamics
-
-- <https://users.wpi.edu/~sullivan/ES3001/Lectures/> - For thermo, go to [Lectures/Lecture-A](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/) (or [Lectures/Lecture-B/](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-B/)) and then go to [Lectures/Lecture-A/Lecture-1](https://users.wpi.edu/~sullivan/ES3001/Lectures/Lecture-A/Lecture-1.htm)
-- <https://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html> - Thermodynamics and Propulsion by Prof. Z. S. Spakovszky
-- <https://ouopentextbooks.org/thermodynamics/> - Web-based, open educational resource (no longer being actively developed)
-
-#### Control
-
-- <https://linklab-uva.github.io/modeling_cps/schedule.html> - Principles of Modeling for Cyber-Physical Systems
-- [engin.umich](https://ctms.engin.umich.edu/CTMS/index.php?aux=About_Tutorials) - To learn how to use MATLAB and Simulink for the analysis and design of automatic control systems
-
-#### Vibrations
-
-- <https://www.acs.psu.edu/drussell/demos.html> - Acoustics and Vibration Animations
-
-### Electronics Engineering
-
-- [Electrical4U](https://www.electrical4u.com/) - Platform for learning electrical engineering.
-- [Electronics Tutorials](https://www.electronics-tutorials.ws/) - Resource providing tutorials on various aspects of electronics.
-- [Octopart](https://octopart.com/) - Platform for electronic parts, helping users find and compare components.
-- [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
-- [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
-
-## Computer Science
-
-- [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
-- [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
-- [Open Source Society University - Computer Science](https://github.com/open-source-society/computer-science) - Curriculum for computer science studies provided by the Open Source Society University.
-- [Functional Computer Science Curriculum](https://functionalcs.github.io/curriculum/) - Curriculum focusing on functional programming concepts in computer science.
-- [Menimagerie](https://www.menimagerie.com/) - Explore concepts in theoretical computer science, from the number system to Cantor infinities, Godel's theorems, and automat.
-- [Computer Science Library](https://www.compscilib.com/) - Platform aiding in mastering concepts in computer science and math courses with automated step-by-step solutions and practice problems.
-- [Computer Jargon](https://www.computerhope.com/jargon.htm) - Glossary of computer-related jargon and technical terms.
-- [Talks by Alan Kay](https://tinlizzie.org/IA/index.php/Talks_by_Alan_Kay) - Collection of talks by computer scientist Alan Kay.
-- [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html) - Tool to convert between the decimal representation of a number and the binary format used by modern CPUs, based on IEEE-754 standard.
-- [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - Guide to x86 Assembly by University of Virginia Computer Science
-
-### Data Structures and Algorithms (DS&A)
-
-- [Dictionary of Algorithms and Data Structures](https://xlinux.nist.gov/dads/) - NIST's Dictionary of Algorithms and Data Structures.
-- [Visualgo](https://visualgo.net/en) - Platform for visualizing data structures and algorithms through animations.
-- [Adventures In Coding & Algorithms](https://entcheva.github.io/) - Blog exploring coding and algorithms.
-- [Damn Cool Algorithms](https://blog.notdot.net/tag/damn-cool-algorithms) - Blog featuring posts on particularly interesting algorithms.
-- [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/) - Video lectures on algorithms by Steven Skiena.
-- [Visual Algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/) - Platform presenting visual representations of algorithms.
-- [Sinon - Algorithms](https://sinon.org/algorithms/) - Summarized page covering important results from computer science.
-
-### Big-O notation
-
-- [Algorithms and Data Structures Big-O Notation](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/) - Comprehensive resource covering Big-O notation for various algorithms and data structures.
-- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - Webpage presenting the space and time complexities (Big-O) of common algorithms used in Computer Science.
-- [Comp160 Data Cheat](https://www.clear.rice.edu/comp160/data_cheat.html) - Resource providing information on data structures and related concepts in computer science.
 
 ## AI/ML
 
