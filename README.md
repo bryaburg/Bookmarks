@@ -283,6 +283,63 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Class Central](https://www.classcentral.com/) - Search engine and reviews platform for online courses, aggregating courses from various providers.
 - [OCW SNU](https://ocw.snu.ac.kr/) - Open CourseWare from Seoul National University.
 
+## AI/ML
+
+- [Doublespeak Chat](https://doublespeak.chat/#/handbook) - Empirical, non-academic, and practical guide to LLM hacking.
+- [Fast.ai Course](https://course.fast.ai/) - Online course for deep learning and machine learning.
+- [Papers with Code](https://paperswithcode.com/sota) - Collection of state-of-the-art results for machine learning tasks with associated code.
+- [Delta Academy Maps](https://maps.joindeltaacademy.com/) - Map of mathematics for Machine Learning.
+- [Control Challenges](https://janismac.github.io/ControlChallenges/) - Leetcode for robotics.
+- [Inside the Matrix by PyTorch](https://pytorch.org/blog/inside-the-matrix/) - Blog post by PyTorch that is visualizing matrix multiplication, attention and beyond.
+- [Directory of AI Models](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/edit?pli=1#gid=0) - Google Sheets document providing a directory of various AI models, presenting information such as name, date, parameters, organization, organization type, author location, language, commercial use, model, accessibility, code accessibility, data accessibility, major datasets used, and architecture.
+- [Papers with Code](https://paperswithcode.com/) - Platform providing the latest in machine learning research papers along with code implementations and benchmarks.
+- [ArXiv Machine Learning Landscape](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html) - Visualization showcasing the landscape of machine learning research on ArXiv.
+
+### LLMs
+
+- [Hacker Llama](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/) - Blog post on the useful terms to know when joining the Local LLM community.
+
+### Prompt Engineering
+
+- [PromptPerfect](https://promptperfect.jina.ai/) - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs), and LMOps.
+- [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
+- [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - Styles and keywords for AI image generation.
+- [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
+- [OpenAI Cookbook](https://cookbook.openai.com/) - Cookbook by OpenAI providing practical guides for working with AI.
+- [Prompting Guide](https://www.promptingguide.ai/) - Resource for creating effective prompts for AI models.
+- [Instaprompt](https://www.instaprompt.ai/?ref=producthunt) - Platform offering instant prompts for writing.
+
+### AI tools
+
+- [Future Tools](https://www.futuretools.io/) - Platform for finding the exact AI tool for your needs.
+- [WarpSound AI](https://www.warpsound.ai/) - Create high-quality generative AI music in seconds with just prompts.
+- [AI Tools Arena](https://aitoolsarena.com/) - Platform showcasing various AI tools and resources.
+- [Klavier AI](https://klavier.ai/) - Allows you to do Q&A with ChatGPT on web pages and docs you choose.
+- [Aiva Valley](https://aivalley.ai/) - The latest source of AI tools and prompts.
+- [Bardeen AI](https://www.bardeen.ai/) - Automate manual work and tasks with AI without any code in minutes.
+- [Speechify](https://speechify.com/) - Power through documents, articles, PDFs, email—anything you read—by listening with their leading AI text-to-speech reader.
+- [Humata AI](https://www.humata.ai/) - Upload any PDF or document and get answers from it in seconds.
+- [Syntelly](https://app.syntelly.com/search) - Artificial intelligence for organic and medical chemistry.
+- [Warp.dev - Warp AI](https://www.warp.dev/warp-ai?source=producthunt&ref=producthunt) - AI-powered tool for building APIs without writing code.
+- [Feedback by AI](https://feedbackbyai.com/?ref=producthunt) - Platform utilizing AI for generating actionable feedback on writing.
+- [Seeing the World through Your Eyes](https://world-from-eyes.github.io/) - Reconstruct the world that is reflected through human eyes.
+- [Auxiliary Tools](https://www.auxiliary.tools/) - Platform offering AI experiments and tools for humans.
+- [Hemingway Editor](https://hemingwayapp.com/) - Spellchecker, but for style.
+- [FuturePedia](https://www.futurepedia.io/) - Leading AI resource platform dedicated to empowering professionals across various industries to leverage AI technologies for innovation and growth.
+- [ExplainPaper](https://www.explainpaper.com/) - Platform where users can upload a research paper, highlight confusing text, and receive an explanation to make research papers easier to read.
+- [Summarize Tech](https://www.summarize.tech/) - AI-powered tool to get a summary of any long YouTube video, such as lectures, live events, or government meetings.
+- [YouTubeTranscript](https://youtubetranscript.com/) - Get a YouTube video transcript and summaries
+
+### Data Science
+
+- [DataTau](https://www.datatau.com/news) - Hackernews but for data
+- [DatasetList](https://www.datasetlist.com/) - List of machine learning datasets from across the web
+- [Stat Learning](https://www.statlearning.com/) - Platform for learning statistics and related topics.
+
+### Databases
+
+- [ImageNet](https://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
+
 ## Physics
 
 - [The Theoretical Minimum](https://theoreticalminimum.com/home) - Series of Stanford Continuing Studies courses taught by world-renowned physicist Leonard Susskind.
@@ -1112,63 +1169,6 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [SimpleDesktops](https://simpledesktops.com/browse/) - Collection of minimal wallpapers for desktop backgrounds.
 - [WallpaperFlare](https://www.wallpaperflare.com/search?wallpaper=vertical) - Website offering high-resolution vertical wallpapers.
 - [Positron Dream](https://www.positrondream.com/wallpapers-all) - Collection of abstract wallpapers available for download.
-
-## AI/ML
-
-- [Doublespeak Chat](https://doublespeak.chat/#/handbook) - Empirical, non-academic, and practical guide to LLM hacking.
-- [Fast.ai Course](https://course.fast.ai/) - Online course for deep learning and machine learning.
-- [Papers with Code](https://paperswithcode.com/sota) - Collection of state-of-the-art results for machine learning tasks with associated code.
-- [Delta Academy Maps](https://maps.joindeltaacademy.com/) - Map of mathematics for Machine Learning.
-- [Control Challenges](https://janismac.github.io/ControlChallenges/) - Leetcode for robotics.
-- [Inside the Matrix by PyTorch](https://pytorch.org/blog/inside-the-matrix/) - Blog post by PyTorch that is visualizing matrix multiplication, attention and beyond.
-- [Directory of AI Models](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/edit?pli=1#gid=0) - Google Sheets document providing a directory of various AI models, presenting information such as name, date, parameters, organization, organization type, author location, language, commercial use, model, accessibility, code accessibility, data accessibility, major datasets used, and architecture.
-- [Papers with Code](https://paperswithcode.com/) - Platform providing the latest in machine learning research papers along with code implementations and benchmarks.
-- [ArXiv Machine Learning Landscape](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html) - Visualization showcasing the landscape of machine learning research on ArXiv.
-
-### LLMs
-
-- [Hacker Llama](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/) - Blog post on the useful terms to know when joining the Local LLM community.
-
-### Prompt Engineering
-
-- [PromptPerfect](https://promptperfect.jina.ai/) - Cutting-edge prompt optimizer designed for large language models (LLMs), large models (LMs), and LMOps.
-- [Jailbreak Chat](https://www.jailbreakchat.com/) - Jailbreak collection for LLMs.
-- [MidJourney Styles and Keywords Reference](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference) - Styles and keywords for AI image generation.
-- [QuickRef ChatGPT](https://quickref.me/chatgpt) - ChatGPT cheatsheet.
-- [OpenAI Cookbook](https://cookbook.openai.com/) - Cookbook by OpenAI providing practical guides for working with AI.
-- [Prompting Guide](https://www.promptingguide.ai/) - Resource for creating effective prompts for AI models.
-- [Instaprompt](https://www.instaprompt.ai/?ref=producthunt) - Platform offering instant prompts for writing.
-
-### AI tools
-
-- [Future Tools](https://www.futuretools.io/) - Platform for finding the exact AI tool for your needs.
-- [WarpSound AI](https://www.warpsound.ai/) - Create high-quality generative AI music in seconds with just prompts.
-- [AI Tools Arena](https://aitoolsarena.com/) - Platform showcasing various AI tools and resources.
-- [Klavier AI](https://klavier.ai/) - Allows you to do Q&A with ChatGPT on web pages and docs you choose.
-- [Aiva Valley](https://aivalley.ai/) - The latest source of AI tools and prompts.
-- [Bardeen AI](https://www.bardeen.ai/) - Automate manual work and tasks with AI without any code in minutes.
-- [Speechify](https://speechify.com/) - Power through documents, articles, PDFs, email—anything you read—by listening with their leading AI text-to-speech reader.
-- [Humata AI](https://www.humata.ai/) - Upload any PDF or document and get answers from it in seconds.
-- [Syntelly](https://app.syntelly.com/search) - Artificial intelligence for organic and medical chemistry.
-- [Warp.dev - Warp AI](https://www.warp.dev/warp-ai?source=producthunt&ref=producthunt) - AI-powered tool for building APIs without writing code.
-- [Feedback by AI](https://feedbackbyai.com/?ref=producthunt) - Platform utilizing AI for generating actionable feedback on writing.
-- [Seeing the World through Your Eyes](https://world-from-eyes.github.io/) - Reconstruct the world that is reflected through human eyes.
-- [Auxiliary Tools](https://www.auxiliary.tools/) - Platform offering AI experiments and tools for humans.
-- [Hemingway Editor](https://hemingwayapp.com/) - Spellchecker, but for style.
-- [FuturePedia](https://www.futurepedia.io/) - Leading AI resource platform dedicated to empowering professionals across various industries to leverage AI technologies for innovation and growth.
-- [ExplainPaper](https://www.explainpaper.com/) - Platform where users can upload a research paper, highlight confusing text, and receive an explanation to make research papers easier to read.
-- [Summarize Tech](https://www.summarize.tech/) - AI-powered tool to get a summary of any long YouTube video, such as lectures, live events, or government meetings.
-- [YouTubeTranscript](https://youtubetranscript.com/) - Get a YouTube video transcript and summaries
-
-### Data Science
-
-- [DataTau](https://www.datatau.com/news) - Hackernews but for data
-- [DatasetList](https://www.datasetlist.com/) - List of machine learning datasets from across the web
-- [Stat Learning](https://www.statlearning.com/) - Platform for learning statistics and related topics.
-
-### Databases
-
-- [ImageNet](https://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
 
 ## Web Development
 
