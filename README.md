@@ -1,26 +1,10 @@
-# Awesome Useful Websites
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-<br>
-
-Explore the internet's hidden gems with this list of awesome useful websites!
-
-<br>
+# My Bookmarks
 
 Most of these websites are gathered from:
 
 - [producthunt.com](https://www.producthunt.com/)
 - [reddit.com/r/InternetIsBeautiful](https://www.reddit.com/r/InternetIsBeautiful/)
 - [news.ycombinator.com](https://news.ycombinator.com/)
-
-<br>
-
-Feel free to share this list, star it, and [contribute](#contributing) your own awesome finds.
-
-<br>
-
-## Lexicon
 
 Certain websites are tagged with the symbols listed below for convenience.
 
