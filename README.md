@@ -38,6 +38,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [LLMs](#llms)
 - [Prompt Engineering](#prompt-engineering)
 
+### Automotive
+- [Repair](#Repair)
+- [Parts](#Parts)
+
 ### Business
 - [Finance](#finance)
 - [Marketing](#marketing)
@@ -192,6 +196,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 
 <br>
+
+### Automotive
+-[1aauto](https://www.1aauto.com/) - 1aauto Parts
 
 ## Tools
 
