@@ -24,6 +24,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Studying](#studying)
 - [Calculators](#calculators)
 - [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
+- [Certified Schools](#abet)
 
 ### AI/ML
 - [AI tools](#ai-tools)
@@ -63,6 +64,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Civil Engineering](#civil-engineering)
 - [Electronics Engineering](#electronics-engineering)
 - [Mechanical Engineering](#mechanical-engineering)
+
+### Hacking
+- [Tools](#hacking-tools)
+- [Tutorial](#hacking-tutorial)
 
 ### Health
 - [Food](#food)
@@ -276,6 +281,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Learning on the Internet](https://www.learningontheinternet.com/?ref=producthunt) - Platform featuring curated educational content and resources from various sources.
 - [Class Central](https://www.classcentral.com/) - Search engine and reviews platform for online courses, aggregating courses from various providers.
 - [OCW SNU](https://ocw.snu.ac.kr/) - Open CourseWare from Seoul National University.
+
+### Certified Schools (abet)
+
+- [Abet Schools](https://www.abet.org/) - Schools that are Certified by the abet board.
 
 ## AI/ML
 
@@ -500,6 +509,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/) - Video lectures on algorithms by Steven Skiena.
 - [Visual Algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/) - Platform presenting visual representations of algorithms.
 - [Sinon - Algorithms](https://sinon.org/algorithms/) - Summarized page covering important results from computer science.
+- [ Data Structure & Algorithms 101 with Doodles](https://github.com/girliemac/a-picture-is-worth-a-1000-words/) - Doodles and Sketchnotes of Data Structure and Algorithms
 
 ### Big-O notation
 
