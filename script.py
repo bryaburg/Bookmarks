@@ -1,5 +1,5 @@
 import re
-# This checks the websites.txt and compares to my .md file if there is matching websites and if so removes them from the list
+# This checks the websites.txt and compares to my README.md file if there is matching websites and if so removes them from the list
 
 URL_Regex = r"https?:\/\/(www\.)?[-a-zA-Z0-9@:%._\+~#=]{1,256}\.[a-zA-Z0-9()]{1,6}\b([-a-zA-Z0-9()@:%_\+.~#?&//=]*)"
 
