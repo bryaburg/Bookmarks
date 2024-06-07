@@ -1772,6 +1772,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [JavaScript Event Keycode Info](https://www.toptal.com/developers/keycode) - Information about JavaScript event keycodes.
 - [jsDelivr](https://www.jsdelivr.com/) - Free CDN for open source. Fast, reliable, and automated.
 
+#### React
+
+- [30 Days of React](https://www.30daysofreact.com/)
+
 ### Back-End
 
 - [RunSidekick](https://www.runsidekick.com/) - Collect traces and generate logs on-demand without stopping & redeploying your applications.
