@@ -17,16 +17,19 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Contents](#contents)
 
 ### Art
+
 - [Photography](#photography)
 - [Art Communities](#art-communities)
 
 ### Academia
+
 - [Studying](#studying)
 - [Calculators](#calculators)
 - [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
 - [Certified Schools](#abet)
 
 ### AI/ML
+
 - [AI tools](#ai-tools)
 - [Data Science](#data-science)
 - [Databases](#databases)
@@ -34,10 +37,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Prompt Engineering](#prompt-engineering)
 
 ### Automotive
-- [Repair](#Repair)
-- [Parts](#Parts)
+
+- [Repair](#repair)
+- [Parts](#parts)
 
 ### Business
+
 - [Finance](#finance)
 - [Marketing](#marketing)
 - [Meetings](#meetings)
@@ -45,59 +50,73 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Trends](#trends)
 
 ### Coding Practice / Competitive Programming
+
 - [Capture the Flag](#capture-the-flag)
 - [Hackathons](#hackathons)
 - [Open Source](#open-source)
 - [Projects](#projects)
 
 ### Computer Science
+
 - [Big-O notation](#big-o-notation)
 - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
 
 ### Culture
+
 - [DIY](#diy)
 
 ### Economy
+
 - [Business](#business)
 
 ### Engineering
+
 - [Civil Engineering](#civil-engineering)
 - [Electronics Engineering](#electronics-engineering)
 - [Mechanical Engineering](#mechanical-engineering)
 
 ### Hacking
+
 - [Tools](#hacking-tools)
 - [Tutorial](#hacking-tutorial)
 
 ### Health
+
 - [Food](#food)
 
 ### How To Ask A Good Question
+
 - [XY Problem](#xy-problem)
 
 ### Jobs
+
 - [Careers](#careers)
 - [Freelancing](#freelancing)
 - [Portfolio / CV / Resume](#portfolio--cv--resume)
 - [Remote Jobs](#remote-jobs)
 
 ### Language
+
 - [Business English](#business-english)
 - [Grammar](#grammar)
 - [Words \& Meanings](#words--meanings)
 - [Writing](#writing)
 
 ### Mathematics
+
 - [Math + Art](#math--art)
 
 ### Media
+
 - [Reddit](#reddit)
 - [X / Twitter](#x--twitter)
 
 ### Movies and Series
+
 - [Anime](#anime)
 
 ### Music / Audio
+
 - [Find Music](#find-music)
 - [Free Music](#free-music)
 - [Mix Sounds](#mix-sounds)
@@ -108,10 +127,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Other Websites of Websites
 
 ### Physics
+
 - [Astronomy](#astronomy)
 - [Quantum](#quantum)
 
 ### Privacy
+
 - [Ad Blocker](#ad-blocker)
 - [Cryptography](#cryptography)
 - [Data Breach](#data-breach)
@@ -127,10 +148,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [VPN](#vpn)
 
 ### Programming Languages
+
 - [C++](#c)
 - [Python](#python)
 
 ### Science
+
 - [Biographies](#biographies)
 - [Biology](#biology)
 - [Books, Articles, Texts](#books-articles-texts)
@@ -143,6 +166,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Social Sciences](#social-sciences)
 
 ### Softwares
+
 - [Linters](#linters)
 - [No-Code](#no-code)
   - [Licensing](#licensing)
@@ -151,6 +175,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Testing](#testing)
 
 ### Startups
+
 - [Connectivity](#connectivity)
 - [Design](#design)
   - [Colors](#colors)
@@ -163,6 +188,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Finding Ideas](#finding-ideas)
 
 ### Tools
+
 - [Automating browser](#automating-browser)
 - [Comparison](#comparison)
 - [Converter / Conversion](#converter--conversion)
@@ -175,12 +201,14 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [White Board](#white-board)
 
 ### Travel
+
 - [Flight](#flight)
 - [Globetrotting](#globetrotting)
 - [Time](#time)
 - [Weather](#weather)
 
 ### Web Development
+
 - [Back-End](#back-end)
   - [APIs](#apis)
   - [SQL](#sql)
@@ -192,6 +220,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Web Analytics](#web-analytics)
 
 ### Keyboard
+
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 
 <br>
@@ -346,6 +375,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 ## Automotive
 
 ### Parts
+
 - [1aauto](https://www.1aauto.com/) - 1aauto Parts
 
 ### Repair
@@ -509,7 +539,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Skiena's Algorithms Lectures](https://www3.cs.stonybrook.edu/~algorith/video-lectures/) - Video lectures on algorithms by Steven Skiena.
 - [Visual Algorithms](https://thimbleby.gitlab.io/algorithm-wiki-site/) - Platform presenting visual representations of algorithms.
 - [Sinon - Algorithms](https://sinon.org/algorithms/) - Summarized page covering important results from computer science.
-- [ Data Structure & Algorithms 101 with Doodles](https://github.com/girliemac/a-picture-is-worth-a-1000-words/) - Doodles and Sketchnotes of Data Structure and Algorithms
+- [Data Structure & Algorithms 101 with Doodles](https://github.com/girliemac/a-picture-is-worth-a-1000-words/) - Doodles and Sketchnotes of Data Structure and Algorithms
 
 ### Big-O notation
 
@@ -1977,6 +2007,5 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [ASCII Tables](https://ascii-tables.com/) - Online resource providing an ASCII table, ALT codes, Z Score table, Greek Alphabet, T Distribution table, and a Binary Translator.
 - [ShortcutFoo](https://www.shortcutfoo.com/) - Platform for practicing keyboard shortcuts for free, supporting Mac, Windows, Linux, and offering cheat sheets for various applications, languages, and terminals.
 - [Microsoft Word Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2) - Official Microsoft Office support page providing a comprehensive list of keyboard shortcuts for Microsoft Word.
-
 
 <br>
