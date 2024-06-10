@@ -8,15 +8,15 @@ Certain websites are tagged with the symbols listed below for convenience.
 |   ~$   | Freemium (Offers a free version but requires payment for additional features) |
 |   @    | Student Friendly (Offers discounts or a free version for students)            |
 
-<br>
+'''
 
 Some websites can fall into multiple categories. If you can't find what you need in a specific category, search for keywords or explore other relevant categories as well.
 
-# Contents
+## Contents
 
 - [Contents](#contents)
 
-### Art
+## Arts
 
 - [Photography](#photography)
 - [Art Communities](#art-communities)
@@ -28,7 +28,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
 - [Certified Schools](#abet)
 
-### AI/ML
+### AI/MLs
 
 - [AI tools](#ai-tools)
 - [Data Science](#data-science)
@@ -223,7 +223,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [Keyboard Shortcuts](#keyboard-shortcuts)
 
-<br>
+'''
 
 ## Art
 
@@ -246,7 +246,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Behance](https://www.behance.net/)
 - [ArtStation](https://www.artstation.com/)
 
-## Academia
+## Academia Links
 
 - [TLDR This](https://tldrthis.com/) - Platform to summarize any piece of text into concise, easy-to-digest content, helping users overcome information overload.
 - [Archive.org General Index](https://archive.org/details/GeneralIndex) - General index providing access to over 107 million journal articles.
@@ -313,7 +313,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ### Certified Schools (abet)
 
-- [Abet Schools](https://www.abet.org/) - Schools that are Certified by the abet board.
+- [Abet](https://www.abet.org/) - Schools that are Certified by the abet board.
 
 ## AI/ML
 
@@ -372,7 +372,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [ImageNet](https://www.image-net.org/) - Image database organized according to the WordNet hierarchy.
 
-## Automotive
+## Automotive Links
 
 ### Parts
 
@@ -380,7 +380,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ### Repair
 
-## Business
+## Business Links
 
 - [Crunchbase](https://www.crunchbase.com/) - A platform for discovering innovative companies, startups, and key individuals in the business world. Provides comprehensive data and insights about companies, investments, and industry trends.
 - [Business Model Toolbox](https://bmtoolbox.net/) - A resource to learn about various business concepts and models.
@@ -450,7 +450,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [BookCrossing](https://bookcrossing.com/) - Release your books "into the wild" for strangers to find or perform a "controlled release" to another BookCrossing member, and track their journey via journal entries from around the world.
 - [Dimensions](https://www.dimensions.com/) - Platform offering visual reference designs for dimensions and measurements across various categories.
 
-## Coding Practice / Competitive Programming
+## Coding Practice / Competitive Programming Links
 
 - [LeetCode](https://leetcode.com/) - Platform for practicing coding problems with a focus on algorithmic challenges.
 - [NeetCode](https://neetcode.io/) - Coding practice website designed to enhance your skills through real-world projects and collaborative coding.
@@ -517,7 +517,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Hackathons by Hack Club](https://hackathons.hackclub.com/) - Curated list of high school hackathons, featuring 699 events in 27 states and 18 countries.
 - [Cerebral Valley AI Events](https://events.cerebralvalley.ai/) - Provides information on upcoming AI-related events, hackathons, and co-working opportunities.
 
-## Computer Science
+## Computer Science Links
 
 - [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
@@ -547,7 +547,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - Webpage presenting the space and time complexities (Big-O) of common algorithms used in Computer Science.
 - [Comp160 Data Cheat](https://www.clear.rice.edu/comp160/data_cheat.html) - Resource providing information on data structures and related concepts in computer science.
 
-## Culture
+## Culture Links
 
 - [Cultural Atlas](https://culturalatlas.sbs.com.au/) - Educational resource providing comprehensive information on cultural backgrounds.
 - [QuoteMaster](https://www.quotemaster.org/) - Platform with 98,683 categories and 1,488,431 quotes.
@@ -564,7 +564,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Unita](https://unita.co/) - Platform to discover, compare, and review the best communities, masterminds, and online groups across more than 30+ categories.
 - [Escape Room Tips](https://escaperoomtips.com/) - Tips, tricks, and puzzles for escape rooms
 
-## Economy
+## Economy Links
 
 - [Investopedia](https://www.investopedia.com/) - A source of financial education, news, and research for investors.
 - [Money](https://money.com/) - A comprehensive resource for personal finance and financial news.
@@ -581,7 +581,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [WTF Happened in 1971](https://wtfhappenedin1971.com/) - Website exploring and highlighting various economic, social, and financial events that occurred in the year 1971.
 - [Ergodicity Economics](https://ergodicityeconomics.com/) - Website providing insights into Ergodicity Economics and related concepts.
 
-## Engineering
+## Engineering Links
 
 - [Animagraffs](https://animagraffs.com/) - Educational website featuring detailed animated infographics (animagraffs) that visually explain complex topics and processes across various subjects.
 - [Technology Student](https://technologystudent.com/index.htm) - A resource containing numerous information sheets, exercises, and animations, covering various technology-related topics.
@@ -646,7 +646,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
 - [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
 
-## Health
+## Health Links
 
 - [MuscleWiki](https://musclewiki.com/) - Platform to learn about your body and muscles.
 - [Just a Minute](https://jinay.dev/just-a-minute/) - Test your chronoception (sense of passing time) in one minute.
@@ -665,7 +665,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Two Peas and Their Pod](https://www.twopeasandtheirpod.com/) - Recipe site offering a variety of recipes.
 - [HelloFresh](https://www.hellofresh.com/) - Meal kit delivery service where users can choose recipes, and HelloFresh delivers the ingredients straight to their door.
 
-## How To Ask A Good Question
+## How To Ask A Good Questions
 
 - [How to Be Great at Asking Questions](https://medium.com/@gordon_zhu/how-to-be-great-at-asking-questions-e37be04d0603) - Offers insights on asking effective questions.
 - [How To Ask Questions The Smart Way](https://catb.org/~esr/faqs/smart-questions.html) - A guide by Eric Steven Raymond on asking questions intelligently.
@@ -683,7 +683,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [XY problem - Bash Hackers Wiki](https://mywiki.wooledge.org/XyProblem) - A page on the Bash Hackers Wiki addressing the XY Problem.
 - [Let Me Google That for You](https://lmgtfy.app/#gsc.tab=0) - An interactive tool to create a link that shows someone how to use Google to find answers to their questions.
 
-## Jobs
+## Job
 
 - [Y Combinator Jobs](https://www.ycombinator.com/jobs) - Discover the best startup jobs curated by Y Combinator.
 - [Coroflot](https://www.coroflot.com/discover) - Job search platform specifically tailored for designers.
@@ -747,7 +747,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [WTF Should I Do With My Life](https://www.wtfshouldidowithmylife.com/) - A resource to explore and learn about different occupations.
 - [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up.
 
-## Language
+## Languages
 
 - [YouGlish](https://youglish.com/) - Use YouTube to improve your English pronunciation.
 - [Voscreen](https://www.voscreen.com/) - Platform providing video snippets of English sentences; test your understanding by choosing paraphrased sentences.
@@ -790,7 +790,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Business English Resources](https://www.businessenglishresources.com/) - A collection of free resources for improving your business English skills.
 - [Digital Glossary](https://www.digital-glossary.com/) - Provides terminological words in Turkish, English, and German for digital contexts.
 
-## Mathematics
+## Mathematic
 
 - [Open Logic Text](https://openlogicproject.org/about/) - Open-source, modular, collaboratively authored collection of teaching materials for formal (meta)logic and formal methodss.
 - [OEIS - The On-Line Encyclopedia of Integer Sequences](https://oeis.org/) - Platform providing a comprehensive database of integer sequences.
@@ -819,7 +819,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Texample](https://texample.net/) - Examples and community of LaTeX
 - [Snowflakes Project](https://www.dynamicmath.xyz/collective-math-art/) - Snowflakes project by Collective Mathematical Art
 
-## Media
+## Media Links
 
 - [Radio Garden](https://radio.garden/) - Explore live radio stations represented as green dots on a Google Earth map, allowing you to listen to any of them with just one click.
 - [Radiooooo](https://radiooooo.com/) - "The Musical Time Machine," where you can explore music from different times and places.
@@ -861,7 +861,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [RedditSearch.io](https://redditsearch.io/) - An advanced Reddit search engine that allows you to filter and customize your searches.
 - [Better Reddit Search](https://betterredditsearch.web.app/) - Enhance your Reddit search experience with improved features and functionality.
 
-## Movies and Series
+## Movies and Series Links
 
 - [Kanopy](https://www.kanopy.com/en/) (@) - Streaming platform offering thousands of films for free with library or university support.
 - [Movie Map](https://www.movie-map.com/) - Find similar movies based on your preferences.
@@ -887,7 +887,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Reddit Top Anime Streaming Sites](https://reddit.com/r/streamingAnime/wiki/topsites/) - Wiki page listing top anime streaming sites on Reddit.
 - [Reddit Legal Anime Streams](https://reddit.com/r/anime/wiki/legal_streams/) - Wiki page providing a list of legal anime streaming sites on Reddit.
 
-## Music / Audio
+## Music / Audio Links
 
 - [KHInsider](https://downloads.khinsider.com/) - Video and PC game soundtracks for download in MP3 and lossless formats.
 - [Online Tone Generator](https://onlinetonegenerator.com/) - Generate tones, and you can also download them in WAV format.
@@ -952,7 +952,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Playlist Mutator](https://playlistmutator.com/) - Mutate existing playlists in React.
 - [TuneMyMusic](https://www.tunemymusic.com/) - Transfer playlists between music services.
 
-## Other Websites of Websites
+## Other Websites of Website
 
 - [Stumbled.to](https://stumbled.to/) - Platform for discovering and sharing interesting websites and content.
 - [5000Best](https://5000best.com/websites/) - Curated collection of the 5000 best websites across various categories.
@@ -969,7 +969,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Internet Is Fun](https://projects.kwon.nyc/internet-is-fun/) - Collection of fun and interesting websites on the internet.
 - [Wiby](https://wiby.me/) - Search engine for the classic web, aiming to recreate the browsing experience of earlier days of the internet, particularly suitable for vintage computers.
 
-## Physics
+## Physic
 
 - [The Theoretical Minimum](https://theoreticalminimum.com/home) - Series of Stanford Continuing Studies courses taught by world-renowned physicist Leonard Susskind.
 - [Theoretical Physics - Cambridge](https://www.damtp.cam.ac.uk/user/tong/index.html) - Resources and information about theoretical physics from the University of Cambridge.
@@ -989,7 +989,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [100,000 Stars](https://stars.chromeexperiments.com/) - A visualization of 100,000 nearby stars, providing an immersive experience.
 - [The Million Earth Solar System](https://planetplanet.net/2018/06/01/the-million-earth-solar-system/) - Explores the concept of a solar system with a million Earth-like planets.
 
-# Privacy
+## Privacy Links
 
 - [ToS;DR](https://tosdr.org/) - Terms of Service; Didn't Read (short: ToS;DR).
 - [Nothing Private](https://www.nothingprivate.ml/) - Check why you are not anonymous when using private browsing mode or incognito mode. You can also read it [here](https://github.com/gautamkrishnar/nothing-private).
@@ -1017,7 +1017,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Browser.lol](https://browser.lol/) - Browse anonymously with a free virtual environment within your browser.
 - [OneTimeSecret](https://onetimesecret.com/) - Platform for sharing a password, secret message or private link securely with one-time links.
 
-### Cryptography
+## Cryptography Links
 
 - [Cryptologie](https://www.cryptologie.net/) - A website covering various topics in cryptography.
 - [Invisible](https://mikebradley.me/invisible/index.html) - A tool that hides text in images and allows you to find hidden text.
@@ -1141,7 +1141,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [How Secure Is My Password?](https://www.security.org/how-secure-is-my-password/) - Check the security strength of your password. Entries are secure and not stored or shared.
 - [Password Generator](https://freecodetools.org/password-generator/) - Generate secure passwords easily.
 
-## Programming Languages
+## Programming Language
 
 - [EbookFoundation-Free-Programming-Books](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) - Free and open source programming books
 - [Codecademy Catalog](https://www.codecademy.com/catalog) - Platform offering a catalog of courses for learning various programming languages and technologies.
@@ -1171,7 +1171,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 [LearnCpp.com](https://www.learncpp.com/) - A comprehensive resource for learning C++ programming.
 
-## Science
+## Science Links
 
 - [Reproducibility Institute](https://reproducibilityinstitute.org/w/) - Projects that provide academic papers, cheatsheets, and torrents for paid courses.
 - [EBSCO](https://www.ebsco.com/) - Provider of research databases, e-journals, magazine subscriptions, ebooks, and discovery service.
@@ -1181,7 +1181,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Nature Scitable](https://www.nature.com/scitable/) - Library of scientific overviews. Customize your own eBooks, create an online classroom, contribute and share content, and connect with networks of colleagues.
 - [Vinaire](https://vinaire.me/) - Physics and Math classes.
 
-## Softwares
+## Software
 
 - [OlderGeeks](https://oldergeeks.com/) - Ad-free software download site supported by donations, providing a hassle-free experience.
 - [AlternativeTo](https://alternativeto.net/) - Discover the best alternatives to popular software based on user recommendations.
@@ -1422,7 +1422,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Ask Nature](https://asknature.org/) - Biology-inspired strategies, innovations, or educational resources.
 - [We Are Hosts for Memes](https://wearehostsformemes.com/) - You have been exposed to The Meta-meme
 
-## Startups
+## Startups Links
 
 - [Ncase](https://ncase.me/) - Game Theory explanations with simple games.
 - [Startup Growth Calculator](https://growth.tlb.org/) - Calculate how much funding your startup needs for growth.
@@ -1567,7 +1567,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [WallpaperFlare](https://www.wallpaperflare.com/search?wallpaper=vertical) - Website offering high-resolution vertical wallpapers.
 - [Positron Dream](https://www.positrondream.com/wallpapers-all) - Collection of abstract wallpapers available for download.
 
-## Tools
+## Tools Link
 
 - [5000Best Tools](https://5000best.com/tools/) - 5000 tools.
 - [10015.io](https://10015.io/) - Free all-in-one toolbox for various tasks.
@@ -1579,7 +1579,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Lunar](https://lunar.fyi/) - Multi-featured app for controlling monitors.
 - [GetHuman](https://gethuman.com/) - Get a representative on the phone faster and receive better help from known companies.
 
-## Travel
+## Traveling
 
 - [Airheart - Travel Restrictions](https://airheart.com/travel-restrictions/united-states-vaccinated) - Stay informed about travel restrictions and requirements for your trip, including COVID-19 restrictions.
 - [Country Code](https://countrycode.org/) - A guide to call anywhere in the world, providing country codes for international dialing.
@@ -1739,7 +1739,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [ByClickDownloader](https://www.byclickdownloader.com/) - Backup videos from various sites in HD, MP3, MP4, AVI, and other formats using their software.
 - [Reanimate](https://reanimate.github.io/) - Build declarative animations with SVG and Haskell.
 
-## Web Development
+## Web Development Links
 
 - [W3C](https://www.w3.org/) - World Wide Web Consortium's official website, making it possible to use web technologies with different languages, scripts, and cultures.
 - [UX Core](https://keepsimple.io/uxcore) - UX Core allows you to explore many cognitive biases while creating software.
@@ -1987,7 +1987,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/) - Visual cheat sheet for the Bootstrap framework.
 - [HackerThemes](https://hackerthemes.com/) - UI/UX resources based on the Bootstrap framework.
 
-## Keyboard
+## Keyboards
 
 - [MechanicalKeyboards](https://mechanicalkeyboards.com/index.php) - Largest dedicated catalog of mechanical keyboards worldwide, offering fast shipping and after-sale support.
 - [Vimified](https://www.vimified.com/) - Platform for learning and practicing Vim, a free and open-source, screen-based text editor program.
@@ -2008,4 +2008,4 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [ShortcutFoo](https://www.shortcutfoo.com/) - Platform for practicing keyboard shortcuts for free, supporting Mac, Windows, Linux, and offering cheat sheets for various applications, languages, and terminals.
 - [Microsoft Word Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2) - Official Microsoft Office support page providing a comprehensive list of keyboard shortcuts for Microsoft Word.
 
-<br>
+'''
