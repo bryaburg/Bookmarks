@@ -26,7 +26,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Studying](#studying)
 - [Calculators](#calculators)
 - [MOOC (Massive Open Online Courses)](#mooc-massive-open-online-courses)
-- [Certified Schools](#abet)
+- [Certified Schools](#certified-schools)
 
 ### AI/MLs
 
@@ -311,7 +311,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Class Central](https://www.classcentral.com/) - Search engine and reviews platform for online courses, aggregating courses from various providers.
 - [OCW SNU](https://ocw.snu.ac.kr/) - Open CourseWare from Seoul National University.
 
-### Certified Schools (abet)
+### Certified Schools
 
 - [Abet](https://www.abet.org/) - Schools that are Certified by the abet board.
 
@@ -645,6 +645,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Octopart](https://octopart.com/) - Platform for electronic parts, helping users find and compare components.
 - [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
 - [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
+
+## Hacking Links
+
+### [Tools](Hacking Tools)
+
+### [Tutorial](Hacking Tutorial)
 
 ## Health Links
 
