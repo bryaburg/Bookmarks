@@ -79,6 +79,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [Tools](#hacking-tools)
 - [Tutorial](#hacking-tutorial)
+- [Training Platforms](#hacking-training-platforms)
 
 ### Health
 
@@ -377,6 +378,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Parts
 
 - [1aauto](https://www.1aauto.com/) - 1aauto Parts
+- [Boslla](https://www.boslla.com/) - Boslla Parts
 
 ### Repair
 
@@ -648,11 +650,39 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ## Hacking Links
 
-### [Tools](Hacking Tools)
+### [Tools](#hacking-tools)
 
 - [Air Crack](https://www.aircrack-ng.org/) - Aircrack-ng is a complete suite of tools to assess WiFi network security.
+- [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 
-### [Tutorial](Hacking Tutorial)
+### [Tutorial](#hacking-tutorial)
+
+- [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) - A web-based tool for exploring, visualizing, and analyzing MITRE ATT&CK.
+- [MITRE ATT&CK Navigator (GitHub Pages)](https://mitre-attack.github.io/attack-navigator/) - Official GitHub Pages for MITRE ATT&CK Navigator.
+- [Cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
+- [Cutter](https://github.com/rizinorg/cutter) - A Qt and C++ GUI for radare2 reverse engineering framework.
+- [Dismap](https://github.com/zhzyker/dismap/releases) - An efficient Distributed Scanner for Intranet.
+- [Faraday](https://github.com/infobyte/faraday) - Collaborative Penetration Test and Vulnerability Management Platform.
+- [Hayabusa](https://github.com/Yamato-Security/hayabusa) - A Python tool developed to automate the disassembly and exploitation of firmware.
+- [Hihex](https://github.com/digarok/hihex) - A binary code hex editor focused on reversing and debugging.
+- [Kubescape](https://github.com/kubescape/kubescape) - A tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by NSA and CISA.
+- [Matano](https://github.com/matanolabs/matano) - An OSINT tool to search for and gather information about a target company.
+- [Malwoverview](https://github.com/alexandreborges/malwoverview) - A command-line tool to extract and analyze malware related network indicators.
+- [Maldev Academy](https://maldevacademy.com/) - Maldev Academy is a comprehensive malware development course that focuses on x64 malware development
+
+### [Training Platforms](#hacking-training-platforms)
+
+- [Antisyphon Training](https://www.antisyphontraining.com/) - Online cybersecurity training platform.
+- [Hack The Box](https://www.hackthebox.com/) - An online platform for testing and advancing your skills in penetration testing and cybersecurity.
+- [PentesterLab](https://www.pentesterlab.com/) - Learn web hacking and penetration testing.
+- [TryHackMe](https://tryhackme.com/) - Learn and practice real-world cybersecurity skills.
+- [Cybrary](https://www.cybrary.it/) - Free cybersecurity training resources.
+- [OverTheWire](https://overthewire.org/wargames/) - Wargames offered to the public for the purpose of learning and practicing security concepts.
+- [Hacker101](https://www.hacker101.com/) - Free class for web security offered by HackerOne.
+- [Hack This Site](https://www.hackthissite.org/) - A free, safe, and legal training ground for hackers to test and expand their hacking skills.
+- [PortSwigger Web Security Academy](https://portswigger.net/web-security) - Free online training platform for web security.
+- [picoCTF](https://picoctf.com/) - A free computer security game targeted at middle and high school students.
+- [Let's Defend](https://letsdefend.io/) - Platform for practicing and improving cybersecurity skills through real-world scenarios.
 
 ## Health Links
 
