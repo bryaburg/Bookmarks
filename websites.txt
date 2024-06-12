@@ -65,6 +65,13 @@ https://www.codedex.io/
 https://www.codingame.com/start/
 https://www.coursera.org/articles/it-certification-roadmap-a-guide
 https://flukeout.github.io/
+https://www.sql-practice.com/
+https://mystery.knightlab.com/
+https://www.stratascratch.com/
+https://www.daveeddy.com/
+https://github.com/kamranahmedse/design-patterns-for-humans
+https://roadmap.sh/
+https://github.com/kamranahmedse/developer-roadmap
 
 
 Vdieo Security
@@ -107,6 +114,7 @@ https://www.supercook.com/#/desktop
 http://hackthemenu.com/
 https://www.chefslabo.com/
 https://www.chefgpt.xyz/?ref=futuretools.io
+https://www.dishgen.com/
 
 
 Invoicing & Bill Pay for platforms
@@ -117,20 +125,21 @@ https://gethuman.com/
 Math Tool
 https://www.cymath.com/
 
-
+Dashboard 
 https://dashy.to/docs
+
+
 https://docs.google.com/document/d/16xg8muWlXWciwGpKjwNr3zlYVVK9DE8kiEAlxuDNB_k/edit
 https://www.mavenanalytics.io/
-https://www.sql-practice.com/
-https://mystery.knightlab.com/
+
+
 https://www.askedith.ai/
-https://www.stratascratch.com/
-https://www.daveeddy.com/
-https://github.com/kamranahmedse/design-patterns-for-humans
-https://roadmap.sh/
-https://github.com/kamranahmedse/developer-roadmap
+
+
+
+Discord
 https://betterdiscord.app/plugins
-https://www.dishgen.com/
+
 https://donotpay.com/
 https://www.docsity.com/en/
 https://www.thedogbakery.com/blogs/news/9-yummy-pupsicle-recipes-to-cool-your-dog-off

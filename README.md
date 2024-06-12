@@ -36,6 +36,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [LLMs](#llms)
 - [Prompt Engineering](#prompt-engineering)
 
+### Amazon
+
+-[Job Prep](#Job Prep)
+
 ### Automotive
 
 - [Repair](#repair)
