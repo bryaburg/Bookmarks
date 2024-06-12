@@ -77,9 +77,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ### Hacking
 
-- [Tools](#hacking-tools)
-- [Tutorial](#hacking-tutorial)
-- [Training Platforms](#hacking-training-platforms)
+- [Hacking Tools](#hacking-tools)
+- [Hacking Tutorial](#hacking-tutorial)
+- [Hacking Training Platforms](#hacking-training-platforms)
 
 ### Health
 
@@ -648,14 +648,14 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
 - [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
 
-## Hacking Links
+## Hacking
 
-### [Tools](#hacking-tools)
+### [Hacking Tools]
 
 - [Air Crack](https://www.aircrack-ng.org/) - Aircrack-ng is a complete suite of tools to assess WiFi network security.
 - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 
-### [Tutorial](#hacking-tutorial)
+### [Hacking Tutorial]
 
 - [MITRE ATT&CK Navigator](https://github.com/mitre-attack/attack-navigator) - A web-based tool for exploring, visualizing, and analyzing MITRE ATT&CK.
 - [MITRE ATT&CK Navigator (GitHub Pages)](https://mitre-attack.github.io/attack-navigator/) - Official GitHub Pages for MITRE ATT&CK Navigator.
@@ -670,7 +670,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Malwoverview](https://github.com/alexandreborges/malwoverview) - A command-line tool to extract and analyze malware related network indicators.
 - [Maldev Academy](https://maldevacademy.com/) - Maldev Academy is a comprehensive malware development course that focuses on x64 malware development
 
-### [Training Platforms](#hacking-training-platforms)
+### [Hacking Training Platforms]
 
 - [Antisyphon Training](https://www.antisyphontraining.com/) - Online cybersecurity training platform.
 - [Hack The Box](https://www.hackthebox.com/) - An online platform for testing and advancing your skills in penetration testing and cybersecurity.
@@ -1055,7 +1055,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Browser.lol](https://browser.lol/) - Browse anonymously with a free virtual environment within your browser.
 - [OneTimeSecret](https://onetimesecret.com/) - Platform for sharing a password, secret message or private link securely with one-time links.
 
-## Cryptography Links
+## Cryptography
 
 - [Cryptologie](https://www.cryptologie.net/) - A website covering various topics in cryptography.
 - [Invisible](https://mikebradley.me/invisible/index.html) - A tool that hides text in images and allows you to find hidden text.
