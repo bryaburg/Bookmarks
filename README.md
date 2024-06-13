@@ -208,7 +208,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ### Shopping
 
-- [Average Finder](#average-finder)
+- [Price Matching](#price-matching)
 
 ### Tools
 
@@ -1773,6 +1773,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Rentry](https://rentry.co/FMHY) - Online collaborative markdown editor.
 
 ## Shopping Links
+
+### Price Matching
 
 - [Average Finder](https://averagefinder.com/) - Find the Average Sale Price of eBay Items
 
