@@ -41,6 +41,14 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Repair](#repair)
 - [Parts](#parts)
 
+### Automation
+
+- [Automation Community](#automation-community)
+- [Trade Shows](#trade-shows)
+- [Cognex](#cognex)
+- [Cisco](#cisco)
+- [Rockwell Automation](#rockwell-automation)
+
 ### Books Websites
 
 - [Books](#books)
@@ -197,6 +205,10 @@ Some websites can fall into multiple categories. If you can't find what you need
   - [Wallpapers](#wallpapers)
 - [Failures](#failures)
 - [Finding Ideas](#finding-ideas)
+
+### Shopping
+
+- [Average Finder](#average-finder)
 
 ### Tools
 
@@ -392,7 +404,33 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ### Repair
 
-### Books
+## Automation Links
+
+### Automation Community
+
+- [Automation Community](https://automationcommunity.com/)
+- [Automation Locals](https://automation.locals.com/login)
+- [Automation News](https://automate.news/)
+- [Automation School](https://theautomationschool.com/)
+
+### Trade Shows
+
+- [Trade Shows](https://www.ntradeshows.com/automation/united-states/)
+
+### Cognex
+
+- [Webinars](https://www.cognex.com/resources/events/webinars)
+
+### Cisco
+
+- [Stratix Switch CLI Basics](https://theautomationblog.com/cisco-stratix-command-line-interface-basics/)
+
+### Rockwell Automation
+
+- [CCW Training](https://www.rockwellautomation.com/en-us/capabilities/industrial-automation-control/design-and-configuration-software/ccw-software-training-videos.html
+)
+
+## Books
 
 - [Annas Archive](https://annas-archive.org/) - Download books for free
 - [Computer Engineering for Babies](https://computerengineeringforbabies.com/) - Engineering Books for kids
@@ -1733,6 +1771,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Emoji Combos](https://emojicombos.com/) - Collection of emoji combinations and sequences.
 - [ASCII World](https://www.asciiworld.com/) - Platform featuring ASCII art and tutorials.
 - [Rentry](https://rentry.co/FMHY) - Online collaborative markdown editor.
+
+## Shopping Links
+
+- [Average Finder](https://averagefinder.com/) - Find the Average Sale Price of eBay Items
 
 ### Automating browser
 
