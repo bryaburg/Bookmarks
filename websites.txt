@@ -1,28 +1,4 @@
 
-Amazon
-https://www.jobtestprep.co.uk/amazon-assessment
-
-Andriod
-https://developer.android.com/studio/command-line/adb
-
-
-https://anilist.co/
-
-Books
-https://annas-archive.org/
-https://computerengineeringforbabies.com/
-
-Remote Desktop
-https://guacamole.apache.org/
-
-Computer Parts
-https://www.apexstoragedesign.com/apexstoragex21
-
-Travel
-https://www.atlasobscura.com/
-https://www.cia.gov/the-world-factbook/countries/
-https://curiosio.com/
-
 Automation
 https://automation.locals.com/login
 https://automate.news/

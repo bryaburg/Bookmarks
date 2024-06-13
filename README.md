@@ -36,14 +36,14 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [LLMs](#llms)
 - [Prompt Engineering](#prompt-engineering)
 
-### Amazon
-
--[Job Prep](#Job Prep)
-
 ### Automotive
 
 - [Repair](#repair)
 - [Parts](#parts)
+
+### Books Websites
+
+- [Books](#books)
 
 ### Business
 
@@ -52,6 +52,11 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Meetings](#meetings)
 - [Patents](#patents)
 - [Trends](#trends)
+
+### Computer Software / Parts
+
+- [Remote Desktop](#remote-desktop)
+- [Computer Parts](#computer-parts)
 
 ### Coding Practice / Competitive Programming
 
@@ -156,6 +161,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [C++](#c)
 - [Python](#python)
+- [Andriod](#android)
 
 ### Science
 
@@ -386,6 +392,11 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ### Repair
 
+### Books
+
+- [Annas Archive](https://annas-archive.org/) - Download books for free
+- [Computer Engineering for Babies](https://computerengineeringforbabies.com/) - Engineering Books for kids
+
 ## Business Links
 
 - [Crunchbase](https://www.crunchbase.com/) - A platform for discovering innovative companies, startups, and key individuals in the business world. Provides comprehensive data and insights about companies, investments, and industry trends.
@@ -439,22 +450,15 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
 - [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
 
-## DIY
+## Computer Software / Part
 
-- [WikiHow](https://www.wikihow.com/Main-Page) - A collaborative platform for creating and sharing how-to guides.
-- [ManualsLib](https://www.manualslib.com/) - Online repository of user manuals and guides.
-- [This to That](https://thistothat.com/) - Learn how to glue different materials together.
-- [HowStuffWorks](https://www.howstuffworks.com/) - Explore how things work with in-depth explanations and articles.
-- [WonderHowTo](https://www.wonderhowto.com/) - Learn how to do almost anything with instructional videos and step-by-step guides.
-- [Dummies](https://www.dummies.com/) - A series of instructional/reference books.
-- [DoItYourself](https://www.doityourself.com/) - Resources for DIY projects and home improvement.
-- [JScreenFix](https://www.jscreenfix.com/) - Pixel fixing algorithm for repairing defective pixels, particularly effective for stuck pixels. No installation required, and it's free.
-- [Donkey Car](https://www.donkeycar.com/) - Open-source DIY self-driving platform for small-scale cars. It combines an RC car with a Raspberry Pi and is powered by Python (tornado, keras, tensorflow, opencv, etc.).
-- [Instructables](https://www.instructables.com/) - A platform for discovering and sharing DIY projects.
-- [iFixit](https://www.ifixit.com/) - Repair guides for various devices, contributed by the community.
-- [Fix It Club](https://fixitclub.com/) - Save money on home repairs with helpful guides.
-- [BookCrossing](https://bookcrossing.com/) - Release your books "into the wild" for strangers to find or perform a "controlled release" to another BookCrossing member, and track their journey via journal entries from around the world.
-- [Dimensions](https://www.dimensions.com/) - Platform offering visual reference designs for dimensions and measurements across various categories.
+### Remote Desktop
+
+- [Apache Guacamole](https://guacamole.apache.org/) - Apache Guacamole is a clientless remote desktop gateway.
+
+### Computer Parts
+
+- [Apex Storage X21](https://www.apexstoragedesign.com/apexstoragex21) - A card that can hold a lot of storage
 
 ## Coding Practice / Competitive Programming Links
 
@@ -570,6 +574,23 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Unita](https://unita.co/) - Platform to discover, compare, and review the best communities, masterminds, and online groups across more than 30+ categories.
 - [Escape Room Tips](https://escaperoomtips.com/) - Tips, tricks, and puzzles for escape rooms
 
+## DIY
+
+- [WikiHow](https://www.wikihow.com/Main-Page) - A collaborative platform for creating and sharing how-to guides.
+- [ManualsLib](https://www.manualslib.com/) - Online repository of user manuals and guides.
+- [This to That](https://thistothat.com/) - Learn how to glue different materials together.
+- [HowStuffWorks](https://www.howstuffworks.com/) - Explore how things work with in-depth explanations and articles.
+- [WonderHowTo](https://www.wonderhowto.com/) - Learn how to do almost anything with instructional videos and step-by-step guides.
+- [Dummies](https://www.dummies.com/) - A series of instructional/reference books.
+- [DoItYourself](https://www.doityourself.com/) - Resources for DIY projects and home improvement.
+- [JScreenFix](https://www.jscreenfix.com/) - Pixel fixing algorithm for repairing defective pixels, particularly effective for stuck pixels. No installation required, and it's free.
+- [Donkey Car](https://www.donkeycar.com/) - Open-source DIY self-driving platform for small-scale cars. It combines an RC car with a Raspberry Pi and is powered by Python (tornado, keras, tensorflow, opencv, etc.).
+- [Instructables](https://www.instructables.com/) - A platform for discovering and sharing DIY projects.
+- [iFixit](https://www.ifixit.com/) - Repair guides for various devices, contributed by the community.
+- [Fix It Club](https://fixitclub.com/) - Save money on home repairs with helpful guides.
+- [BookCrossing](https://bookcrossing.com/) - Release your books "into the wild" for strangers to find or perform a "controlled release" to another BookCrossing member, and track their journey via journal entries from around the world.
+- [Dimensions](https://www.dimensions.com/) - Platform offering visual reference designs for dimensions and measurements across various categories.
+
 ## Economy Links
 
 - [Investopedia](https://www.investopedia.com/) - A source of financial education, news, and research for investors.
@@ -652,7 +673,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
 - [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
 
-## Hacking
+## Hacking Links
 
 ### [Hacking Tools]
 
@@ -782,6 +803,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [HelloTechRecruiters](https://hellotechrecruiters.com/) - Tailored for tech recruiters.
 - [FlowCV](https://flowcv.com/) (~$) - AI-boosted resume builder, cover letter, job tracker, email signature, personal website.
 - [Signature Maker](https://signature-maker.net/) - Create handwritten digital signatures.
+- [Amazon Test Prep](https://www.jobtestprep.co.uk/amazon-assessment) - Amazon Assessment Preperation
 
 ### Careers
 
@@ -928,6 +950,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [Reddit Top Anime Streaming Sites](https://reddit.com/r/streamingAnime/wiki/topsites/) - Wiki page listing top anime streaming sites on Reddit.
 - [Reddit Legal Anime Streams](https://reddit.com/r/anime/wiki/legal_streams/) - Wiki page providing a list of legal anime streaming sites on Reddit.
+- [Anilist](https://anilist.co/) - Track, share, and discover your favorite anime and manga
 
 ## Music / Audio Links
 
@@ -1208,6 +1231,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Learn by Example - Python Resources](https://learnbyexample.github.io/py_resources/) - Collection of Python resources and tutorials for various topics.
 - [Data to Fish](https://datatofish.com/python-tutorials/) - Platform offering clear Python tutorials covering topics such as machine learning, databases, pandas, GUI, and more.
 - [Notion Programming Course](https://www.notion.so/Programming-Course-4d4331de1a0c4ae894133cb1ca1e9315) - Self-study course for learning to build basic web applications in Django, hosted on Notion.
+
+### Android
+
+- [ADB](https://developer.android.com/studio/command-line) - Android Debug Bridge (adb) is a versatile command-line tool that lets you communicate with a device.
 
 ### C++
 
@@ -1639,6 +1666,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Welcome to My Garden](https://welcometomygarden.org/) - A non-profit network offering free camping spots in private gardens for slow travelers.
 - [Warmshowers](https://www.warmshowers.org/) - A community of bicycle tourists and hosts supporting them during their journeys.
 - [Slowby](https://www.slowby.travel/) - A platform offering highly-curated slow travel trips for a unique travel experience.
+- [Atlasobscura](https://www.atlasobscura.com/) - Find and see obscure news and articles of places we can visit
+- [CIA World Facts](https://www.cia.gov/the-world-factbook/countries/) - CIA articles about places around the world
+- [Curiosio](https://curiosio.com/) - Road Trip Planner
 
 ### Globetrotting
 
