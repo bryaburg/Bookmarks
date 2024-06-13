@@ -1,38 +1,20 @@
 
 https://www.xpressreg.net/register/auto0523/landing.php
 
-Cloud Training
-https://aws.amazon.com/training/learn-about/cloud-practitioner/
-https://aws.amazon.com/?nc2=h_lg
-
-Security
-https://www.binaryedge.io/
-
-Windows Bios Password Recovery
-https://bios-pw.org/
-
-Computer Tools
-https://www.bleachbit.org/
-
-
 Programming Training
-https://www.boot.dev/
-https://dr-chuck.com/
-https://coddy.tech/courses
-https://www.codewars.com/
-https://www.codecademy.com/login
-https://www.codedex.io/
-https://www.codingame.com/start/
-https://www.coursera.org/articles/it-certification-roadmap-a-guide
-https://flukeout.github.io/
-https://www.sql-practice.com/
-https://mystery.knightlab.com/
-https://www.stratascratch.com/
-https://www.daveeddy.com/
-https://github.com/kamranahmedse/design-patterns-for-humans
-https://roadmap.sh/
-https://github.com/kamranahmedse/developer-roadmap
 
+
+
+
+
+
+
+
+https://www.stratascratch.com/  Coding Questions
+
+https://www.daveeddy.com/ Programming training
+
+https://github.com/kamranahmedse/design-patterns-for-humans Design patterens
 
 Vdieo Security
 https://www.cameraftp.com/CameraFTP/Support/Configure-iSpy-iSpyConnect-for-CameraFTP-Cloud-Recording.aspx

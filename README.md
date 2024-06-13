@@ -61,10 +61,15 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Patents](#patents)
 - [Trends](#trends)
 
+### Cloud Engineering
+
+- [AWS Training](#aws-training)
+
 ### Computer Software / Parts
 
 - [Remote Desktop](#remote-desktop)
 - [Computer Parts](#computer-parts)
+- [Cleaning Software](#cleaning-software)
 
 ### Coding Practice / Competitive Programming
 
@@ -72,6 +77,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Hackathons](#hackathons)
 - [Open Source](#open-source)
 - [Projects](#projects)
+- [Coding Games](#coding-games)
+- [Road Maps](#road-maps)
 
 ### Computer Science
 
@@ -184,6 +191,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Philosophy](#philosophy)
 - [Social Sciences](#social-sciences)
 
+### Security
+
+- [Software Tools](#software-tools)
+
 ### Softwares
 
 - [Linters](#linters)
@@ -241,6 +252,10 @@ Some websites can fall into multiple categories. If you can't find what you need
   - [JavaScript](#javascript)
 - [Web 3.0 Dev and Cryptocurrencies](#web-30-dev-and-cryptocurrencies)
 - [Web Analytics](#web-analytics)
+
+### Windows Tools
+
+- [Windows Recovery](#windows-recovery)
 
 ### Keyboard
 
@@ -333,6 +348,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Learning on the Internet](https://www.learningontheinternet.com/?ref=producthunt) - Platform featuring curated educational content and resources from various sources.
 - [Class Central](https://www.classcentral.com/) - Search engine and reviews platform for online courses, aggregating courses from various providers.
 - [OCW SNU](https://ocw.snu.ac.kr/) - Open CourseWare from Seoul National University.
+- [Boot.Dev](https://www.boot.dev/)
+- [Dr Chuck](https://dr-chuck.com/)
+- [Coddy](https://coddy.tech/courses)
+- [Codedex](https://www.codedex.io/)
 
 ### Certified Schools
 
@@ -488,6 +507,13 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
 - [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
 
+## Cloud Engineering Links
+
+### AWS Training
+
+- [Cloud Practitioner](https://aws.amazon.com/training/learn-about/cloud-practitioner/)
+- [AWS](https://aws.amazon.com/?nc2=h_lg)
+
 ## Computer Software / Part
 
 ### Remote Desktop
@@ -497,6 +523,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Computer Parts
 
 - [Apex Storage X21](https://www.apexstoragedesign.com/apexstoragex21) - A card that can hold a lot of storage
+
+### Cleaning Software
+
+- [Bleachbit.org](https://www.bleachbit.org/)
 
 ## Coding Practice / Competitive Programming Links
 
@@ -547,6 +577,16 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Build Your Own X](https://github.com/codecrafters-io/build-your-own-x#build-your-own-neural-network) - GitHub repository providing guides on building your favorite technologies from scratch.
 - [Arduino Project Hub](https://projecthub.arduino.cc/) - Hub for sharing and discovering Arduino projects.
 - [Projects in Networking](https://projectsinnetworking.com/) - Resource for networking projects, network security projects, cyber security case studies, and source code for students, graduates, and professionals in the computer networking and security domain.
+
+### Coding Games
+
+- [Codingame](https://www.codingame.com/start/)
+
+### Road Maps
+
+- [Coursera](https://www.coursera.org/articles/it-certification-roadmap-a-guide)
+- [Developer Roadmaps](https://roadmap.sh/)
+- [Roadmap.sh](https://github.com/kamranahmedse/developer-roadmap)
 
 ### Open Source
 
@@ -1288,6 +1328,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Nature Scitable](https://www.nature.com/scitable/) - Library of scientific overviews. Customize your own eBooks, create an online classroom, contribute and share content, and connect with networks of colleagues.
 - [Vinaire](https://vinaire.me/) - Physics and Math classes.
 
+## Security Links
+
+### Software Tools
+
+- [Binaryedge](https://www.binaryedge.io/)
+
 ## Software
 
 - [OlderGeeks](https://oldergeeks.com/) - Ad-free software download site supported by donations, providing a hassle-free experience.
@@ -1778,6 +1824,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [Average Finder](https://averagefinder.com/) - Find the Average Sale Price of eBay Items
 
+## Tools Links
+
 ### Automating browser
 
 - [Automa](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca?ref=producthunt) - Chrome extension for automating your browser.
@@ -1916,6 +1964,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [CSS Solid](https://www.csssolid.com/) - CSS references, tutorials, and articles.
 - [CSS-Tricks](https://css-tricks.com/) - Web design community powered by Digital Ocean.
 - [CSS Box Shadow Code Snippet](https://onaircode.com/css-box-shadow-code-snippet/) - Code snippet for creating CSS box shadows.
+- [CSS Diner](https://flukeout.github.io/)
 
 #### JavaScript
 
@@ -1954,6 +2003,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [SQL Translate](https://www.sqltranslate.app/) - SQL to Natural Language and Natural Language to SQL translator. 100% free and open source
 - [Servers for Hackers](https://serversforhackers.com/) - Server Admin for Programmers. Learn server tech for development and production.
 - [RubyGems Guides](https://guides.rubygems.org/) - Learn how RubyGems works and how to make your own
+- [SQL Murder Mystery](https://mystery.knightlab.com/)
+- [SQL Practice](https://www.sql-practice.com/)
 
 ### Web Analytics
 
@@ -2116,6 +2167,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Yip-Yip](https://www.yip-yip.com/) - Online tool providing keyboard shortcuts for various applications and programs.
 - [Keebmaker](https://keebmaker.com/) - Resource for creating custom mechanical keyboards.
 - [Colemak - Learn](https://colemak.com/Learn) - Learning resources for the Colemak keyboard layout.
+
+## Windows Tools Links
+
+### Windows Recovery
+
+- [Windows Bios Password Recovery](https://bios-pw.org/)
 
 ### Keyboard Shortcuts
 
