@@ -1,23 +1,8 @@
 
 https://www.xpressreg.net/register/auto0523/landing.php
 
-Programming Training
-
-
-
-
-
-
-
-
-https://www.stratascratch.com/  Coding Questions
-
-https://www.daveeddy.com/ Programming training
-
-https://github.com/kamranahmedse/design-patterns-for-humans Design patterens
 
 Vdieo Security
-https://www.cameraftp.com/CameraFTP/Support/Configure-iSpy-iSpyConnect-for-CameraFTP-Cloud-Recording.aspx
 http://charm.li/
 
 Finance
@@ -439,3 +424,5 @@ https://www.creditkarma.com/networth
 https://accounts.spiceworks.com/sign_in?policy=hosted_help_desk&success=https://logisticsandsafety.on.spiceworks.com
 https://app.appruv.com/SystemUsers/Login
 https://tasklist.theescogroup.com/Account/Login.aspx?ReturnUrl=%2f
+https://github.com/Raphire/Win11Debloat
+https://github.com/StevenBlack/hosts

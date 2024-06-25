@@ -79,11 +79,13 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Projects](#projects)
 - [Coding Games](#coding-games)
 - [Road Maps](#road-maps)
+- [Training](#training)
 
 ### Computer Science
 
 - [Big-O notation](#big-o-notation)
 - [Data Structures and Algorithms (DS\&A)](#data-structures-and-algorithms-dsa)
+- [Design Patterns](#design-patterns)
 
 ### Culture
 
@@ -104,6 +106,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Hacking Tools](#hacking-tools)
 - [Hacking Tutorial](#hacking-tutorial)
 - [Hacking Training Platforms](#hacking-training-platforms)
+
+### Home
+
+- [Security](#home-security)
 
 ### Health
 
@@ -588,6 +594,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Developer Roadmaps](https://roadmap.sh/)
 - [Roadmap.sh](https://github.com/kamranahmedse/developer-roadmap)
 
+### Training
+
+- [StrataScratch](https://www.stratascratch.com/) - StrataScratch is a data science platform with over 1,000+
+real interview questions from your favorite companies
+- [Dave Eddy](https://www.daveeddy.com/) - Hey my name's dave and you've found my website. If you're looking for the programmer or the musician you have come to the right place. Check out my music and cool projects below.
+
 ### Open Source
 
 - [LibHunt](https://www.libhunt.com/) - Platform for discovering trending open-source projects and their alternatives.
@@ -634,6 +646,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Algorithms and Data Structures Big-O Notation](https://cooervo.github.io/Algorithms-DataStructures-BigONotation/) - Comprehensive resource covering Big-O notation for various algorithms and data structures.
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/) - Webpage presenting the space and time complexities (Big-O) of common algorithms used in Computer Science.
 - [Comp160 Data Cheat](https://www.clear.rice.edu/comp160/data_cheat.html) - Resource providing information on data structures and related concepts in computer science.
+
+### Design Patterns
+
+- [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) - Ultra-simplified explanation to design patterns!
 
 ## Culture Links
 
@@ -772,6 +788,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Matano](https://github.com/matanolabs/matano) - An OSINT tool to search for and gather information about a target company.
 - [Malwoverview](https://github.com/alexandreborges/malwoverview) - A command-line tool to extract and analyze malware related network indicators.
 - [Maldev Academy](https://maldevacademy.com/) - Maldev Academy is a comprehensive malware development course that focuses on x64 malware development
+- [Reverse Shell Templates](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Reverse%20Shell%20Cheatsheet.md
+) - Github Profile showing how and ways to make and do reverse shells
 
 ### [Hacking Training Platforms]
 
@@ -787,7 +805,13 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [picoCTF](https://picoctf.com/) - A free computer security game targeted at middle and high school students.
 - [Let's Defend](https://letsdefend.io/) - Platform for practicing and improving cybersecurity skills through real-world scenarios.
 
-## Health Links
+## Home
+
+### Home Security
+
+- [Camera FTP](https://www.cameraftp.com/cameraftp/software/download.aspx)
+
+## Health
 
 - [MuscleWiki](https://musclewiki.com/) - Platform to learn about your body and muscles.
 - [Just a Minute](https://jinay.dev/just-a-minute/) - Test your chronoception (sense of passing time) in one minute.
