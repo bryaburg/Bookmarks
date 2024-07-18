@@ -1,15 +1,5 @@
 # My Bookmarks
 
-Certain websites are tagged with the symbols listed below for convenience.
-
-| Symbol | Meaning                                                                       |
-| :----: | ----------------------------------------------------------------------------- |
-|   $    | Payment Required (There are no free options)                                  |
-|   ~$   | Freemium (Offers a free version but requires payment for additional features) |
-|   @    | Student Friendly (Offers discounts or a free version for students)            |
-
-'''
-
 Some websites can fall into multiple categories. If you can't find what you need in a specific category, search for keywords or explore other relevant categories as well.
 
 ## Contents
@@ -46,10 +36,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Automation Community](#automation-community)
 - [Trade Shows](#trade-shows)
 - [Cognex](#cognex)
-- [Cisco](#cisco)
 - [Rockwell Automation](#rockwell-automation)
 
-### Books Websites
+### Books \ Articles
 
 - [Books](#books)
 
@@ -70,6 +59,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Remote Desktop](#remote-desktop)
 - [Computer Parts](#computer-parts)
 - [Cleaning Software](#cleaning-software)
+- [Managing Tools](#managing-tools)
+- [Software](#software)
+
+### CompTIA
+
+- [CompTIA A+](#comptia-a)
 
 ### Coding Practice / Competitive Programming
 
@@ -94,6 +89,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Economy
 
 - [Business](#business)
+- [Credit Card](#credit-card)
+
+### Electronics
+
+- [Components](#components)
+- [Guides](#guides)
 
 ### Engineering
 
@@ -101,15 +102,27 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Electronics Engineering](#electronics-engineering)
 - [Mechanical Engineering](#mechanical-engineering)
 
+### Gaming
+
+- [Discord](#discord)
+
 ### Hacking
 
 - [Hacking Tools](#hacking-tools)
 - [Hacking Tutorial](#hacking-tutorial)
 - [Hacking Training Platforms](#hacking-training-platforms)
+- [Osint Tools](#osint-tools)
+- [Data Analysis](#data-analysis)
+- [Web Scraping](#web-scraping)
 
 ### Home
 
 - [Security](#home-security)
+- [Cleaning](#home-cleaning)
+- [Cooking](#cooking)
+- [Pets](#pets)
+- [Hardware](#hardware)
+- [Fix Stuff](#fix-stuff)
 
 ### Health
 
@@ -154,6 +167,11 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Music Theory](#music-theory)
   - [Rhyme](#rhyme)
 - [Spotify](#spotify)
+
+### Networking
+
+- [Cisco](#cisco)
+- [Ethercat](#ethercat)
 
 ### Other Websites of Websites
 
@@ -239,6 +257,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Texts](#texts)
 - [Visual](#visual)
 - [White Board](#white-board)
+- [Excel Tools](#excel-tools)
 
 ### Travel
 
@@ -313,6 +332,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Bartleby](https://www.bartleby.com/) - A platform to search for textbooks, step-by-step explanations to homework questions, and more.
 - [Chegg](https://www.chegg.com/) ($) - A service offering 24/7 course help, including textbook solutions and expert Q&A.
 - [Chegg Flashcards](https://www.chegg.com/flashcards) (@) - Study with flashcards created by students and experts for various courses.
+- [Docsity](https://www.docsity.com/en/) - Docsity offers educational resources and study materials for students.
 
 ### Calculators
 
@@ -374,10 +394,12 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Directory of AI Models](https://docs.google.com/spreadsheets/d/1gc6yse74XCwBx028HV_cvdxwXkmXejVjkO-Mz2uwE0k/edit?pli=1#gid=0) - Google Sheets document providing a directory of various AI models, presenting information such as name, date, parameters, organization, organization type, author location, language, commercial use, model, accessibility, code accessibility, data accessibility, major datasets used, and architecture.
 - [Papers with Code](https://paperswithcode.com/) - Platform providing the latest in machine learning research papers along with code implementations and benchmarks.
 - [ArXiv Machine Learning Landscape](https://lmcinnes.github.io/datamapplot_examples/ArXiv_data_map_example.html) - Visualization showcasing the landscape of machine learning research on ArXiv.
+- [Do Not Pay](https://donotpay.com/) - DoNotPay provides automated legal services and solutions.
 
 ### LLMs
 
 - [Hacker Llama](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/) - Blog post on the useful terms to know when joining the Local LLM community.
+- [Open AI](https://chat.openai.com/) - ChatGPT by OpenAI is an AI-based conversational tool that allows users to interact with an AI to get answers, generate text, and assist with various tasks in natural language.
 
 ### Prompt Engineering
 
@@ -446,14 +468,10 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [Webinars](https://www.cognex.com/resources/events/webinars)
 
-### Cisco
-
-- [Stratix Switch CLI Basics](https://theautomationblog.com/cisco-stratix-command-line-interface-basics/)
-
 ### Rockwell Automation
 
 - [CCW Training](https://www.rockwellautomation.com/en-us/capabilities/industrial-automation-control/design-and-configuration-software/ccw-software-training-videos.html)
-- [TechConnect Genius Webinars](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/748693)
+- [TechConnect Genius Webinars](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/748693)  
 
 ## Books
 
@@ -479,6 +497,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [FIGR](https://www.figr.app/) - Google Docs + Calculator = Personal finances
 - [LiveFortunately](https://app.livefortunately.com/) - Plan for a better financial future. Create a complete financial plan to make the most of your money.
 - [KeeperTax](https://www.keepertax.com/ask-an-ai-accountant-2-0) - AI Accountant for getting help and calculating tax-related questions.
+- [Crater](https://crater.financial/) - Crater offers invoicing and billing solutions for platforms.
 
 ### Patents
 
@@ -513,7 +532,9 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Sessions](https://sessions.us/) - A web-based conferencing tool designed to enhance meetings. It aims to improve the overall meeting experience and is available for free.
 - [Form to Chatbot](https://formtochatbot.com/) - Convert Google forms into interactive conversations in the form of chatbots. This tool helps in creating engaging and dynamic interactions based on form responses.
 
-## Cloud Engineering Links
+## Cloud Engineering
+
+- [Cloud Guru](https://www.pluraht.com/cloud-guru) - A Cloud Guru offers cloud computing training
 
 ### AWS Training
 
@@ -534,6 +555,39 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Cleaning Software
 
 - [Bleachbit.org](https://www.bleachbit.org/)
+
+### Managing Tools
+
+- [Dashy](https://dashy.to/docs) - Dashy is a customizable dashboard application for managing web apps and services.
+
+## Software
+
+- [OlderGeeks](https://oldergeeks.com/) - Ad-free software download site supported by donations, providing a hassle-free experience.
+- [AlternativeTo](https://alternativeto.net/) - Discover the best alternatives to popular software based on user recommendations.
+- [Open Source Alternative](https://www.opensourcealternative.to/) - Platform providing open-source alternatives to proprietary software.
+- [Dark Mode List](https://darkmodelist.com/) - List of 300 apps that support dark mode.
+- [LocalStack](https://localstack.cloud/) - Develop and test cloud and serverless apps offline.
+- [Markwhen](https://markwhen.com/) - Text-to-timeline tool converting markdown-ish text into a cascading timeline.
+- [Asciinema](https://asciinema.org/) - Record and share your terminal sessions with a purely text-based approach.
+- [Apache Guacamole](https://guacamole.apache.org/) - Clientless remote desktop gateway supporting protocols like VNC, RDP, and SSH.
+- [DockerSwarm.rocks](https://dockerswarm.rocks/) - Deploy your application stacks to production in a distributed cluster using Docker Compose files.
+- [EasyCron](https://www.easycron.com/) (~$) - Online cron job service (Paid).
+- [CDecl](https://cdecl.org/) - Translate C gibberish to English, helping you understand complex C declarations.
+- [NirSoft](https://www.nirsoft.net/) - Collection of small utilities for Windows, including system tools, password recovery tools, and more.
+- [Ninite](https://ninite.com/) - Install and update multiple programs at once without toolbars or unnecessary clicks.
+- [ReadWok](https://app.readwok.com/lib) - Online text reader with a progressive viewing mode, allowing paragraph-by-paragraph reading and editing.
+- [BitwiseCMD](https://bitwisecmd.com/) - Online bitwise operations and conversions.
+- [Commands.dev](https://www.commands.dev/?ref=producthunt) - Searchable, templated catalog of popular terminal commands curated from across the internet.
+- [SourceForge](https://sourceforge.net/) - Web-based service that allows you to compare, download and develop open source and business software.
+
+## CompTIA
+
+- [CompTia Store](https://store.comptia.org/) - CompTIA's official store for certifications and study materials.
+
+### CompTIA A+
+
+- [Test Toutce](https://testoutce.com/pages/free-comptia-aplus-labs) - Free labs for CompTIA A+ certification preparation.
+- [CompTIA A+](https://www.comptia.org/certifications/a) - CompTIA A+ certification information.
 
 ## Coding Practice / Competitive Programming Links
 
@@ -588,6 +642,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Coding Games
 
 - [Codingame](https://www.codingame.com/start/)
+- [Elevator Saga](https://play.elevatorsaga.com/) - Elevator Saga is a programming game focused on controlling elevators.
 
 ### Road Maps
 
@@ -600,6 +655,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [StrataScratch](https://www.stratascratch.com/) - StrataScratch is a data science platform with over 1,000+
 real interview questions from your favorite companies
 - [Dave Eddy](https://www.daveeddy.com/) - Hey my name's dave and you've found my website. If you're looking for the programmer or the musician you have come to the right place. Check out my music and cool projects below.
+- [Exercism](https://exercism.org/) - Exercism provides coding exercises and mentorship in various programming languages.
 
 ### Open Source
 
@@ -610,6 +666,8 @@ real interview questions from your favorite companies
 - [GitLab Explore](https://gitlab.com/explore/projects/starred/) - Explore projects on GitLab.
 - [Open Source Guide](https://opensource.guide/) - Guide providing resources for launching and growing open source projects.
 - [The Architecture of Open Source Applications](https://aosabook.org/en/index.html) - Book series about the design and architecture of various open-source software projects.
+- [Ecoute](https://github.com/SevaSk/ecoute) - Ecoute is an open-source music player.
+- [First Contributions](https://github.com/firstcontributions/first-contributions) - First Contributions is a project to help beginners make their first open-source contribution.
 
 ### Hackathons
 
@@ -618,7 +676,7 @@ real interview questions from your favorite companies
 - [Hackathons by Hack Club](https://hackathons.hackclub.com/) - Curated list of high school hackathons, featuring 699 events in 27 states and 18 countries.
 - [Cerebral Valley AI Events](https://events.cerebralvalley.ai/) - Provides information on upcoming AI-related events, hackathons, and co-working opportunities.
 
-## Computer Science Links
+## Computer Science
 
 - [Webopedia](https://www.webopedia.com/) - Online tech dictionary, study guides, and reviews for computer and IT terms.
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/) - Comprehensive guide for self-study in computer science.
@@ -630,6 +688,7 @@ real interview questions from your favorite companies
 - [Talks by Alan Kay](https://tinlizzie.org/IA/index.php/Talks_by_Alan_Kay) - Collection of talks by computer scientist Alan Kay.
 - [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html) - Tool to convert between the decimal representation of a number and the binary format used by modern CPUs, based on IEEE-754 standard.
 - [Guide to x86 Assembly](https://www.cs.virginia.edu/~evans/cs216/guides/x86.html) - Guide to x86 Assembly by University of Virginia Computer Science
+- [Compiler Explorer](https://godbolt.org/) - Compiler Explorer lets you view assembly code from compiled C, C++, and other languages.
 
 ### Data Structures and Algorithms (DS&A)
 
@@ -686,7 +745,7 @@ real interview questions from your favorite companies
 - [BookCrossing](https://bookcrossing.com/) - Release your books "into the wild" for strangers to find or perform a "controlled release" to another BookCrossing member, and track their journey via journal entries from around the world.
 - [Dimensions](https://www.dimensions.com/) - Platform offering visual reference designs for dimensions and measurements across various categories.
 
-## Economy Links
+## Economy
 
 - [Investopedia](https://www.investopedia.com/) - A source of financial education, news, and research for investors.
 - [Money](https://money.com/) - A comprehensive resource for personal finance and financial news.
@@ -702,6 +761,23 @@ real interview questions from your favorite companies
 - [EquityZen](https://equityzen.com/) - Allows you to invest or sell shares in the secondary market with EquityZen funds.
 - [WTF Happened in 1971](https://wtfhappenedin1971.com/) - Website exploring and highlighting various economic, social, and financial events that occurred in the year 1971.
 - [Ergodicity Economics](https://ergodicityeconomics.com/) - Website providing insights into Ergodicity Economics and related concepts.
+
+### Credit Card
+
+- [Cash Back Monitor](https://www.cashbackmonitor.com/) - website for looking at cash back deals on credit cards
+
+## Electronics
+
+### Components
+
+- [Digikey](https://www.digikey.com/) - Digi-Key is an online distributor of electronic components.
+- [Mouser](https://www.mouser.com/) - Mouser Electronics is a distributor of electronic components.
+- [Lcsc Electronics](https://www.lcsc.com/) - LCSC provides electronic components and parts.
+
+### Guides
+
+- [I Fix It](https://www.ifixit.com/) - iFixit provides repair guides and tools for electronics and gadgets.
+- [Fluke](https://www.fluke.com/en-us/learn/online-courses) - Fluke offers online courses for electrical testing and measurement.
 
 ## Engineering Links
 
@@ -768,12 +844,21 @@ real interview questions from your favorite companies
 - [TechSpot - How CPUs Are Designed and Built](https://www.techspot.com/article/1821-how-cpus-are-designed-and-built/) - Series covering computer architecture, processor circuit design, VLSI, chip fabrication, and future trends in computing.
 - [Open Circuits Book](https://www.opencircuitsbook.com/) - "Open Circuits" is a photographic exploration of the beautiful design inside everyday electronics.
 
+## Gaming
+
+### Discord
+
+- [Better Discord](https://betterdiscord.app/plugins) - BetterDiscord offers plugins to enhance the Discord user experience.
+
 ## Hacking Links
 
 ### [Hacking Tools]
 
 - [Air Crack](https://www.aircrack-ng.org/) - Aircrack-ng is a complete suite of tools to assess WiFi network security.
 - [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
+- [Dork Genius](https://dorkgenius.com/) - Generate custom dorks for Google, Bing, DuckDuckGo, & more!
+- [Dozer](https://labs.withsecure.com/tools/drozer) - Drozer is a mobile application security testing framework.
+- [Flipper Zero](https://flipperzero.one/) - Flipper Zero is a portable multi-tool for pentesters and geeks.
 
 ### [Hacking Tutorial]
 
@@ -806,11 +891,55 @@ real interview questions from your favorite companies
 - [picoCTF](https://picoctf.com/) - A free computer security game targeted at middle and high school students.
 - [Let's Defend](https://letsdefend.io/) - Platform for practicing and improving cybersecurity skills through real-world scenarios.
 
+### Osint Tools
+
+- [Censys](https://search.censys.io/) - Censys.io is a search engine for discovering, monitoring, and analyzing internet-connected devices and systems to identify vulnerabilities and ensure security compliance.
+- [AwesomeOSINT on GitHub](https://awesomeopensource.com/project/jivoi/awesome-osint#-pastebins) - GitHub repository containing a curated list of open-source intelligence tools and resources.
+
+### Data Analysis
+
+- [Maven Analytics](https://www.mavenanalytics.io/) - Maven Analytics offers courses and tools for data analysis.
+- [Ask Edith](https://www.askedith.ai/) - AskEdith provides AI-powered data analysis and ihts.
+
+### Web Scraping
+
+- [FFUF](https://github.com/ffuf/ffuf) - FFUF is a tool for web fuzzing and enumeration.
+
 ## Home
 
 ### Home Security
 
 - [Camera FTP](https://www.cameraftp.com/cameraftp/software/download.aspx)
+
+### Home Cleaning
+
+- [Illinois Cleaning](https://web.extension.illinois.edu/stain/) - Illinois Extension offers house cleaning and stain removal tips
+
+### Cooking
+
+- [Joshua Weissman](https://www.joshuaweissman.com/) - Joshua Weissman shares cooking recipes and techniques.
+- [Ethan Chlebowski](https://www.cookwell.com/) - Ethan Chlebowski provides cooking techniques and recipes.
+- [Copy Kat](https://copykat.com/) - CopyKat offers recipes for replicating popular restaurant dishes.
+- [Super Cook](https://www.supercook.com/) - SuperCook helps you find recipes based on the ingredients you have.
+- [Hack The Menu](http://hackthemenu.com/) - Hack the Menu lists secret menu items from various restaurants.
+- [Chefs Labo](https://www.chefslabo.com/) - Chef’s Labo offers cooking classes and culinary techniques.
+- [Chef GPT](https://www.chefgpt.xyz/?ref=futuretools.io) - ChefGPT generates personalized recipes using AI.
+- [DishGen](https://www.dishgen.com/) - DishGen provides AI-powered meal planning and recipes.
+- [Tipsy Bartender](https://tipsybartender.com/) - Tipsy Bartender shares cocktail recipes and videos.
+- [Cocktail Builder](https://www.cocktailbuilder.com/) - Cocktail Builder helps you find drink recipes based on ingredients you have.
+- [Secret Menus](https://secretmenus.com/) - Secret Menus lists hidden menu items from popular restaurants.
+
+### Pets
+
+- [The Dog Bakery](https://www.thedogbakery.com/blogs/news/9-yummy-pupsicle-recipes-to-cool-your-dog-off) - The Dog Bakery shares recipes for dog treats.
+
+### Hardware
+
+- [Door Saver](https://doorsaver.com/) - DoorSaver provides door protection solutions.
+
+### Fix Stuff
+
+- [Repair Clinic](https://www.repairclinic.com/) - Repair Clinic offers appliance parts and repair help.
 
 ## Health
 
@@ -829,7 +958,6 @@ real interview questions from your favorite companies
 - [MyFridgeFood](https://myfridgefood.com/) - Platform that allows users to check off ingredients they have to find recipes they can make with those ingredients.
 - [Just the Recipe](https://www.justtherecipe.com/) - Platform that provides direct instructions from any recipe site without ads and pop-ups.
 - [Two Peas and Their Pod](https://www.twopeasandtheirpod.com/) - Recipe site offering a variety of recipes.
-- [HelloFresh](https://www.hellofresh.com/) - Meal kit delivery service where users can choose recipes, and HelloFresh delivers the ingredients straight to their door.
 
 ## How To Ask A Good Questions
 
@@ -913,6 +1041,7 @@ real interview questions from your favorite companies
 - [Roadmap.sh](https://roadmap.sh/) - Provides roadmaps for various development areas.
 - [WTF Should I Do With My Life](https://www.wtfshouldidowithmylife.com/) - A resource to explore and learn about different occupations.
 - [path-to-polymath.notion](https://path-to-polymathy.notion.site/path-to-polymathy/Path-To-Polymathy-d7586429b7ce4db1889fc539822b9670) - Arrangement of every discipline and field out there, and what specific topics make them up.
+- [The Forage](https://www.theforage.com/) - The Forage provides virtual work experience programs.
 
 ## Languages
 
@@ -985,6 +1114,7 @@ real interview questions from your favorite companies
 - [NYC DOE CS4All](https://nycdoe-cs4all.github.io/) - Introduction to Computational Media with p5.js
 - [Texample](https://texample.net/) - Examples and community of LaTeX
 - [Snowflakes Project](https://www.dynamicmath.xyz/collective-math-art/) - Snowflakes project by Collective Mathematical Art
+- [CyMath](https://www.cymath.com/) - Cymath offers step-by-step solutions to math problems.
 
 ## Media Links
 
@@ -1120,6 +1250,19 @@ real interview questions from your favorite companies
 - [Playlist Mutator](https://playlistmutator.com/) - Mutate existing playlists in React.
 - [TuneMyMusic](https://www.tunemymusic.com/) - Transfer playlists between music services.
 
+## Networking
+
+### Cisco
+
+- [Stratix Switch CLI Basics](https://theautomationblog.com/cisco-stratix-command-line-interface-basics/)
+- [Netacad](https://www.netacad.com/portal/learning)- Cisco Networking Academy offers IT and networking courses.
+- [Skills for All](https://skillsforall.com/) - Skills for All provides online learning resources.
+- [Cisco U](https://u.cisco.com/for-you) - Cisco U provides training for Cisco certifications.
+
+### Ethercat
+
+- [Ethercat](https://www.ethercat.org/en/online_workshop_bashtml) - EtherCAT provides online workshops on basic principles of EtherCAT technology.
+
 ## Other Websites of Website
 
 - [Stumbled.to](https://stumbled.to/) - Platform for discovering and sharing interesting websites and content.
@@ -1127,7 +1270,6 @@ real interview questions from your favorite companies
 - [Neal.fun](https://neal.fun/) - Website featuring entertaining and interactive projects.
 - [Tennessine](https://tennessine.co.uk/) - Collection of political, mathematical, and fun projects for the web.
 - [Blakeir](https://blakeir.com/blog/smart-youtube) - Blog post listing some YouTube pages with smart and insightful content.
-- [AwesomeOSINT on GitHub](https://awesomeopensource.com/project/jivoi/awesome-osint#-pastebins) - GitHub repository containing a curated list of open-source intelligence tools and resources.
 - [MadeWithBubble](https://www.madewithbubble.xyz/) - Platform to discover apps and websites created using the Bubble development platform.
 - [NoviceDock](https://novicedock.com/) - Platform offering curated resources for learning programming and related topics.
 - [Hackr.io](https://hackr.io/) - Platform to find programming courses and tutorials recommended by the programming community.
@@ -1136,6 +1278,8 @@ real interview questions from your favorite companies
 - [Track Awesome List](https://www.trackawesomelist.com/) - Track over 500 awesome list updates, and you can also subscribe to daily or weekly updates via RSS or News Letter.
 - [Internet Is Fun](https://projects.kwon.nyc/internet-is-fun/) - Collection of fun and interesting websites on the internet.
 - [Wiby](https://wiby.me/) - Search engine for the classic web, aiming to recreate the browsing experience of earlier days of the internet, particularly suitable for vintage computers.
+- [Get Human](https://gethuman.com/) - GetHuman helps users connect with customer service faster.
+- [Down Detector](https://downdetector.com/) - DownDetector tracks real-time status and outages of websites and services.
 
 ## Physic
 
@@ -1353,31 +1497,11 @@ real interview questions from your favorite companies
 - [Nature Scitable](https://www.nature.com/scitable/) - Library of scientific overviews. Customize your own eBooks, create an online classroom, contribute and share content, and connect with networks of colleagues.
 - [Vinaire](https://vinaire.me/) - Physics and Math classes.
 
-## Security Links
+## Security
 
 ### Software Tools
 
 - [Binaryedge](https://www.binaryedge.io/)
-
-## Software
-
-- [OlderGeeks](https://oldergeeks.com/) - Ad-free software download site supported by donations, providing a hassle-free experience.
-- [AlternativeTo](https://alternativeto.net/) - Discover the best alternatives to popular software based on user recommendations.
-- [Open Source Alternative](https://www.opensourcealternative.to/) - Platform providing open-source alternatives to proprietary software.
-- [Dark Mode List](https://darkmodelist.com/) - List of 300 apps that support dark mode.
-- [LocalStack](https://localstack.cloud/) - Develop and test cloud and serverless apps offline.
-- [Markwhen](https://markwhen.com/) - Text-to-timeline tool converting markdown-ish text into a cascading timeline.
-- [Asciinema](https://asciinema.org/) - Record and share your terminal sessions with a purely text-based approach.
-- [Apache Guacamole](https://guacamole.apache.org/) - Clientless remote desktop gateway supporting protocols like VNC, RDP, and SSH.
-- [DockerSwarm.rocks](https://dockerswarm.rocks/) - Deploy your application stacks to production in a distributed cluster using Docker Compose files.
-- [EasyCron](https://www.easycron.com/) (~$) - Online cron job service (Paid).
-- [CDecl](https://cdecl.org/) - Translate C gibberish to English, helping you understand complex C declarations.
-- [NirSoft](https://www.nirsoft.net/) - Collection of small utilities for Windows, including system tools, password recovery tools, and more.
-- [Ninite](https://ninite.com/) - Install and update multiple programs at once without toolbars or unnecessary clicks.
-- [ReadWok](https://app.readwok.com/lib) - Online text reader with a progressive viewing mode, allowing paragraph-by-paragraph reading and editing.
-- [BitwiseCMD](https://bitwisecmd.com/) - Online bitwise operations and conversions.
-- [Commands.dev](https://www.commands.dev/?ref=producthunt) - Searchable, templated catalog of popular terminal commands curated from across the internet.
-- [SourceForge](https://sourceforge.net/) - Web-based service that allows you to compare, download and develop open source and business software.
 
 ### Snippets
 
@@ -1796,6 +1920,8 @@ real interview questions from your favorite companies
 - [SeatGuru](https://seatguru.com/) - Explore 1,278 aircraft's seat maps to find yours.
 - [Flightradar24](https://www.flightradar24.com/43,24.35/7) - Global flight tracking service providing real-time information about thousands of aircraft around the world.
 - [Skyscanner](https://www.skyscanner.co.in/) - Flight search engine allowing users to search for flights by date, price, and budget.
+- [Skiplagged](https://skiplagged.com/) - Skiplagged helps users find cheap hts through hidden city ticketing.
+- [Point.me](https://www.point.me/) - Point.me helps users find the best travel deals using points and miles.
 
 ### Weather
 
@@ -1813,6 +1939,10 @@ real interview questions from your favorite companies
 - [Excalidraw](https://excalidraw.com/) - Whiteboard where you can sketch hand-drawn-like diagrams.
 - [Excalideck](https://excalideck.com/) - App for authoring slide decks that look hand-drawn, based on Excalidraw.
 - [Blank Page](https://blank.page/) - Simple webpage displaying a blank white page.
+
+### Excel Tools
+
+- [Excel Formulator](https://excelformulator.com/) - ExcelFormulator offers tools for creating complex Excel formulas.
 
 ### Mind Map / Note Taking
 
@@ -1857,6 +1987,7 @@ real interview questions from your favorite companies
 - [Browse.AI](https://www.browse.ai/) - Platform to extract, set up clicks, and monitor data from any website.
 - [Tango](https://www.tango.us/) - Tool to create step-by-step documentation, how-to playbooks, and product guides with screenshots.
 - [BookmarkOS](https://bookmarkos.com/bookmark-manager-finder) - Allows you to filter through various bookmark managers.
+- [FFProfile](https://ffprofile.com/) - FFProfile offers tools to manage Firefox profiles.
 
 ### Comparison
 
@@ -1876,6 +2007,7 @@ real interview questions from your favorite companies
 - [Keybase](https://keybase.io/) - End-to-end encrypted secure messaging and file-sharing.
 - [MediaFire](https://www.mediafire.com/) - File storage and sharing platform (with subscription options).
 - [Zippyshare](https://www.zippyshare.com/) - File-sharing service with no sign-up required, no download limits, free, and unlimited disk space.
+- [Tiny Wow](https://tinywow.com/) - TinyWow provides free online tools for file conversion and editing.
 
 ### Converter / Conversion
 
@@ -1990,6 +2122,7 @@ real interview questions from your favorite companies
 - [CSS-Tricks](https://css-tricks.com/) - Web design community powered by Digital Ocean.
 - [CSS Box Shadow Code Snippet](https://onaircode.com/css-box-shadow-code-snippet/) - Code snippet for creating CSS box shadows.
 - [CSS Diner](https://flukeout.github.io/)
+- [Flexbox Froggy](https://flexboxfroggy.com/) - Flexbox Froggy is an educational game for learning CSS flexbox.
 
 #### JavaScript
 
@@ -2205,5 +2338,3 @@ real interview questions from your favorite companies
 - [ASCII Tables](https://ascii-tables.com/) - Online resource providing an ASCII table, ALT codes, Z Score table, Greek Alphabet, T Distribution table, and a Binary Translator.
 - [ShortcutFoo](https://www.shortcutfoo.com/) - Platform for practicing keyboard shortcuts for free, supporting Mac, Windows, Linux, and offering cheat sheets for various applications, languages, and terminals.
 - [Microsoft Word Keyboard Shortcuts](https://support.microsoft.com/en-us/office/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2) - Official Microsoft Office support page providing a comprehensive list of keyboard shortcuts for Microsoft Word.
-
-'''
