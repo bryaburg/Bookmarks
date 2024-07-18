@@ -452,8 +452,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 ### Rockwell Automation
 
-- [CCW Training](https://www.rockwellautomation.com/en-us/capabilities/industrial-automation-control/design-and-configuration-software/ccw-software-training-videos.html
-)
+- [CCW Training](https://www.rockwellautomation.com/en-us/capabilities/industrial-automation-control/design-and-configuration-software/ccw-software-training-videos.html)
+- [TechConnect Genius Webinars](https://rockwellautomation.custhelp.com/app/answers/answer_view/a_id/748693)
 
 ## Books
 
@@ -519,6 +519,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [Cloud Practitioner](https://aws.amazon.com/training/learn-about/cloud-practitioner/)
 - [AWS](https://aws.amazon.com/?nc2=h_lg)
+- [Pro AWS](https://www.proaws.dev/)
 
 ## Computer Software / Part
 
