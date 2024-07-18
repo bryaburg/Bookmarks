@@ -5,26 +5,9 @@ http://charm.li/ - Charm provides video security solutions.
 
 
 
-
-
-
-
-
-
-
-https://www.freecycle.org/ - Freecycle is a network for giving away and getting free items in your local community.
-https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md - A GitHub repository listing free programming books in various languages.
-https://frontendmasters.com/learn/ - Frontend Masters offers courses on web development.
-https://emulatorgames.online/ - Emulator Games provides free online emulators for classic video games.
-https://isthereanydeal.com/ - IsThereAnyDeal tracks game prices and discounts across multiple stores.
-https://steamdb.info/ - SteamDB provides detailed information on Steam games and prices.
-https://gg.deals/ - GG.deals compares game prices and finds the best deals.
-https://www.511tactical.com/ - 5.11 Tactical offers tactical clothing and gear.
-https://slnt.com/ - SLNT provides privacy and security products, including Faraday bags.
-https://www.getlinkinfo.com/ - GetLinkInfo provides detailed information about shortened URLs.
-https://www.crowdsupply.com/eurolan-ltd/ggtag - Crowd Supply offers crowdfunding for hardware projects like GGtag.
 https://gitexplorer.com/ - GitExplorer helps users find theht Git commands.
-https://github.com/pystardust/ani-cli - Ani-cli is a commahttps://www.xpressreg.net/register/auto0523/landing.php
+https://github.com/pystardust/ani-cli - Ani-cli is a comma
+https://www.xpressreg.net/register/auto0523/landing.php
 
 
 

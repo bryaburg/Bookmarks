@@ -105,6 +105,8 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Gaming
 
 - [Discord](#discord)
+- [Emulators](#emulators)
+- [Sales](#sales)
 
 ### Hacking
 
@@ -123,6 +125,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Pets](#pets)
 - [Hardware](#hardware)
 - [Fix Stuff](#fix-stuff)
+- [Free Stuff](#free-stuff)
 
 ### Health
 
@@ -244,6 +247,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 ### Shopping
 
 - [Price Matching](#price-matching)
+- [Gear](#gear)
 
 ### Tools
 
@@ -477,6 +481,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 
 - [Annas Archive](https://annas-archive.org/) - Download books for free
 - [Computer Engineering for Babies](https://computerengineeringforbabies.com/) - Engineering Books for kids
+- [Ebook Foundation](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md) - A GitHub repository listing free programming books in various languages.
 
 ## Business Links
 
@@ -850,6 +855,16 @@ real interview questions from your favorite companies
 
 - [Better Discord](https://betterdiscord.app/plugins) - BetterDiscord offers plugins to enhance the Discord user experience.
 
+### Emulators
+
+- [Emulator Games](https://emulatorgames.online/) - Emulator Games provides free online emulators for classic video games.
+
+### Sales
+
+- [IsThereAnyDeal](https://isthereanydeal.com/) - IsThereAnyDeal tracks game prices and discounts across multiple stores.
+- [SteamDB](https://steamdb.info/) - SteamDB provides detailed information on Steam games and prices.
+- [GG.deals](https://gg.deals/) - GG.deals compares game prices and finds the best deals.
+
 ## Hacking Links
 
 ### [Hacking Tools]
@@ -940,6 +955,10 @@ real interview questions from your favorite companies
 ### Fix Stuff
 
 - [Repair Clinic](https://www.repairclinic.com/) - Repair Clinic offers appliance parts and repair help.
+
+### Free Stuff
+
+- [Freecycle](https://www.freecycle.org/) - Freecycle is a network for giving away and getting free items in your local community.
 
 ## Health
 
@@ -1979,6 +1998,11 @@ real interview questions from your favorite companies
 
 - [Average Finder](https://averagefinder.com/) - Find the Average Sale Price of eBay Items
 
+### Gear
+
+- [5.11 Tactical](https://www.511tactical.com/) - 5.11 Tactical offers tactical clothing and gear.
+- [SLNT](https://slnt.com/) - SLNT provides privacy and security products, including Faraday bags.
+
 ## Tools Links
 
 ### Automating browser
@@ -1988,6 +2012,7 @@ real interview questions from your favorite companies
 - [Tango](https://www.tango.us/) - Tool to create step-by-step documentation, how-to playbooks, and product guides with screenshots.
 - [BookmarkOS](https://bookmarkos.com/bookmark-manager-finder) - Allows you to filter through various bookmark managers.
 - [FFProfile](https://ffprofile.com/) - FFProfile offers tools to manage Firefox profiles.
+- [GetLinkInfo](https://www.getlinkinfo.com/) - GetLinkInfo provides detailed information about shortened URLs.
 
 ### Comparison
 
@@ -2110,6 +2135,7 @@ real interview questions from your favorite companies
 - [This vs That](https://thisthat.dev/) - Explore the differences between concepts in front-end development.
 - [Know-It-All](https://know-it-all.io/) - List of what you know and what you don't know about web development.
 - [You Might Not Need jQuery](https://youmightnotneedjquery.com/) - jQuery alternatives.
+- [Frontend Masters](https://frontendmasters.com/learn/) - Frontend Masters offers courses on web development.
 
 #### HTML
 
