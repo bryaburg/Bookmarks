@@ -1119,7 +1119,7 @@ real interview questions from your favorite companies
 
 - [Home Assistant](https://www.home-assistant.io/yellow) - Home Assistant Yellow is the easiest way to run Home Assistant, an open-source home automation platform.
 - [Proxmox](https://www.proxmox.com) - Proxmox offers open-source server management software.
-- [Speedtest Tracker](https://docs.speedtest-tracker.dev) - Speedtest Tracker is a tool for tracking internet speed over time.
+- [Speedtest Tracker](https://github.com/alexjustesen/speedtest-tracker) - Speedtest Tracker is a tool for tracking internet speed over time.
 - [True NAS](https://www.truenas.com/truenas-scale/) - TrueNAS Scale is an open-source storage software.
 - [Undecided with Matt Ferrell](https://undecidedmf.com/shop) - Undecided with Matt Ferrell offers merchandise related to sustainable and smart home technology.
 - [Uptime Kuma](https://github.com/louislam/uptime-kuma) - Uptime Kuma is a self-hosted monitoring tool.
