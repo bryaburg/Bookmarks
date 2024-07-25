@@ -2654,3 +2654,4 @@ real interview questions from your favorite companies
 - [KeyBR](https://www.keybr.com) - Keybr is an online typing tutor that helps improve typing speed and accuracy.
 - [TypeLit](https://www.typelit.io) - TypeLit helps you practice typing with classic literature.
 - [ZType](https://zty.pe) - ZType is a typing game that helps improve typing speed and accuracy.
+- [Monkey Type](https://monkeytype.com/) - Monkey Type is an online typing tutor that helps improve typing speed and accuracy.
