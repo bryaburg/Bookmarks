@@ -136,6 +136,7 @@ Some websites can fall into multiple categories. If you can't find what you need
 - [Free Stuff](#free-stuff)
 - [Home Automation](#home-automation)
 - [Buying](#buying)
+- [Building](#building)
 
 ### Health
 
@@ -1137,6 +1138,13 @@ real interview questions from your favorite companies
 - [Serena Shades](https://www.serenashades.com) - Serena Shades offers smart shading solutions for homes and businesses.
 - [Span](https://www.span.io/?utm_source=youtube&utm_medium=farrellenphase&utm_campaign=a04-a007-a0) - Span offers smart electrical panels for homes.
 - [The National Council of State Housing Agencies](https://www.ncsha.org) - The National Council of State Housing Agencies advocates for affordable housing finance.
+
+### Building
+
+- [Decks.com](https://www.decks.com/deck-plans)
+- [Construct101](https://www.construct101.com/)
+- [BuildBluePrint](https://buildblueprint.com/)
+- [PaulsPlayHouse](https://paulsplayhouses.com/collections/free-playhouse-plans)
 
 ## Health
 
