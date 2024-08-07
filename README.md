@@ -2641,6 +2641,9 @@ real interview questions from your favorite companies
 - [Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - This repository contains scripts for activating Microsoft products.
 - [Bloatbox](https://github.com/builtbybel/bloatbox) - Bloatbox helps you remove unwanted Windows 10 apps.
 - [Win11Debloat](https://github.com/Raphire/Win11Debloat) - This repository contains scripts for debloating Windows 11.
+- [massgrave](https://massgrave.dev/genuine-installation-media)
+- [bobpony](https://dl.bobpony.com/windows/10/)
+- [MSDN](https://files.dog/MSDN/)
 
 ### Windows Recovery
 
